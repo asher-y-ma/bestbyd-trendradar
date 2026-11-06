@@ -2,6 +2,7 @@ import unittest
 import json
 import sqlite3
 import tempfile
+from contextlib import closing
 from pathlib import Path
 from unittest.mock import patch
 from datetime import datetime, timedelta, timezone
@@ -42,7 +43,7 @@ class ExportChecks(unittest.TestCase):
             (root / 'config/topics.json').write_text('{"brand_byd":["BYD"]}')
             (root / 'upstream.json').write_text('{}')
             (runtime / 'output/index.html').write_text('<h1>Test report</h1>')
-            with sqlite3.connect(runtime / 'output/news/2026-11-06.db') as db:
+            with closing(sqlite3.connect(runtime / 'output/news/2026-11-06.db')) as db:
                 db.executescript("CREATE TABLE platforms(id TEXT,name TEXT); CREATE TABLE crawl_records(id INTEGER,crawl_time TEXT); CREATE TABLE crawl_source_status(crawl_record_id INTEGER,platform_id TEXT,status TEXT); CREATE TABLE news_items(title TEXT,platform_id TEXT,rank INTEGER,url TEXT,mobile_url TEXT,last_crawl_time TEXT); INSERT INTO platforms VALUES('weibo','Weibo'); INSERT INTO crawl_records VALUES(1,'22:00'); INSERT INTO crawl_source_status VALUES(1,'weibo','success'); INSERT INTO news_items VALUES('BYD announces a new car','weibo',3,'https://weibo.com/a','','22:00');")
             with patch.object(exporter, 'ROOT', root):
                 exporter.export(runtime, now)

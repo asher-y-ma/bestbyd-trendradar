@@ -5,6 +5,7 @@ import json
 import re
 import shutil
 import sqlite3
+from contextlib import closing
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlsplit, urlunsplit
@@ -63,7 +64,7 @@ def export(runtime, now=None):
     db = runtime / 'output' / 'news' / (date + '.db')
     if not db.is_file():
         raise RuntimeError('TrendRadar did not create its current-day database.')
-    with sqlite3.connect(db) as conn:
+    with closing(sqlite3.connect(db)) as conn:
         conn.row_factory = sqlite3.Row
         record = conn.execute('SELECT id, crawl_time FROM crawl_records ORDER BY id DESC LIMIT 1').fetchone()
         if not record:
