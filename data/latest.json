@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-06T14:20:33.794478+00:00",
+  "generated_at": "2026-11-06T20:27:29.051191+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -67,7 +67,7 @@
       "url": "https://www.zhihu.com/question/2102058162580935679",
       "rank": 1,
       "first_seen": "2026-11-06T14:17:32.225611+00:00",
-      "last_seen": "2026-11-06T14:20:33.794478+00:00",
+      "last_seen": "2026-11-06T20:27:29.051191+00:00",
       "matched_terms": [
         "brand_yangwang",
         "model_u9"
