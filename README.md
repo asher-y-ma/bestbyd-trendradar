@@ -2,13 +2,15 @@
 
 比亚迪资讯与国内社媒热榜监控，使用 [TrendRadar](https://github.com/sansan0/TrendRadar) 的完整采集和报告引擎。
 
+在线报告：[BestBYD TrendRadar](https://asher-y-ma.github.io/bestbyd-trendradar/)。
+
 ## 运行安排
 
 - GitHub Actions 每小时第 17 分钟采集一次，也可在 Actions 页面手动运行 **Collect BYD trends**。
 - 来源：微博、抖音、知乎、B站热搜、百度热搜、今日头条、澎湃新闻、财联社热门。
 - 关注比亚迪、腾势、仰望、方程豹和明确的相关车型名称；热榜没有覆盖的帖子不会被发现。
 - `data/latest.json` 保存最近 7 天内出现过的相关线索，最多 500 条，保留首次/最近观测时间与原始链接。
-- `reports/latest.html` 是 TrendRadar 生成的最新关键词报告，可下载后用浏览器打开。
+- `reports/latest.html` 和在线报告页是 TrendRadar 生成的最新关键词报告。
 - 全部采集失败时任务报错，保留上次成功结果；部分平台失败时输出 `degraded`，不会伪装为全源成功。
 
 ## 与 BestBYD 的关系

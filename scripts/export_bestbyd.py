@@ -103,6 +103,7 @@ def export(runtime, now=None):
     if report.exists():
         (ROOT / 'reports').mkdir(parents=True, exist_ok=True)
         shutil.copyfile(report, ROOT / 'reports/latest.html')
+        shutil.copyfile(report, ROOT / 'index.html')
     print(json.dumps(result['collection'], ensure_ascii=False))
     summary = __import__('os').environ.get('GITHUB_STEP_SUMMARY')
     if summary:
