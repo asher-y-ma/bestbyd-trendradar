@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "project": "bestbyd-trendradar",
+  "generated_at": "2026-11-06T14:17:32.225611+00:00",
+  "timezone": "Asia/Shanghai",
+  "upstream": {
+    "repository": "https://github.com/sansan0/TrendRadar",
+    "commit": "8a316628215c53ad34b7200ecb0fba76de3ef6c7",
+    "version": "6.11.0",
+    "license": "GPL-3.0"
+  },
+  "collection": {
+    "status": "ok",
+    "sources": [
+      {
+        "platform_id": "toutiao",
+        "name": "今日头条",
+        "status": "success"
+      },
+      {
+        "platform_id": "baidu",
+        "name": "百度热搜",
+        "status": "success"
+      },
+      {
+        "platform_id": "thepaper",
+        "name": "澎湃新闻",
+        "status": "success"
+      },
+      {
+        "platform_id": "bilibili-hot-search",
+        "name": "bilibili 热搜",
+        "status": "success"
+      },
+      {
+        "platform_id": "cls-hot",
+        "name": "财联社热门",
+        "status": "success"
+      },
+      {
+        "platform_id": "weibo",
+        "name": "微博",
+        "status": "success"
+      },
+      {
+        "platform_id": "douyin",
+        "name": "抖音",
+        "status": "success"
+      },
+      {
+        "platform_id": "zhihu",
+        "name": "知乎",
+        "status": "success"
+      }
+    ],
+    "total_items": 203,
+    "matched_current": 1,
+    "retained_signals": 1
+  },
+  "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
+  "signals": [
+    {
+      "id": "55bef1a06f1e543fbdedb002c650fecbf685164cdb551e1ab31bca851df5fdc6",
+      "platform": "zhihu",
+      "platform_name": "知乎",
+      "title": "如何看待仰望 U9 Xtreme 在阿布扎比开放公路跑出 503.17km/h 这件事？",
+      "url": "https://www.zhihu.com/question/2102058162580935679",
+      "rank": 1,
+      "first_seen": "2026-11-06T14:17:32.225611+00:00",
+      "last_seen": "2026-11-06T14:17:32.225611+00:00",
+      "matched_terms": [
+        "brand_yangwang",
+        "model_u9"
+      ]
+    }
+  ]
+}
