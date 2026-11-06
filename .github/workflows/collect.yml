@@ -44,10 +44,14 @@ jobs:
         uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: '3.12'
-          cache: pip
-          cache-dependency-path: .runtime/requirements.txt
+      - name: Set up uv
+        uses: astral-sh/setup-uv@94527f2e458b27549849d47d273a16bec83a01e9 # v7
+        with:
+          version: '0.11.7'
+          enable-cache: true
+          cache-dependency-glob: .runtime/uv.lock
       - name: Install pinned upstream dependencies
-        run: python -m pip install -r .runtime/requirements.txt
+        run: uv sync --project .runtime --locked --no-dev
       - name: Configure BYD monitoring
         run: |
           cp config/config.yaml .runtime/config/config.yaml
@@ -55,7 +59,7 @@ jobs:
           python -m unittest discover -s scripts -p 'test_*.py'
       - name: Run TrendRadar without AI or notifications
         working-directory: .runtime
-        run: python -m trendradar
+        run: uv run --locked --no-dev python -m trendradar
       - name: Export validated BYD signals and report
         run: python scripts/export_bestbyd.py --runtime .runtime
       - name: Save real collection results
