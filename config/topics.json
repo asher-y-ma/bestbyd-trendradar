@@ -1,0 +1,20 @@
+{
+  "brand_byd": ["比亚迪", "\\bBYD\\b"],
+  "brand_denza": ["腾势", "\\bDenza\\b"],
+  "brand_yangwang": ["仰望", "\\bYangwang\\b"],
+  "brand_fangchengbao": ["方程豹", "Fang.?Cheng.?Bao"],
+  "model_atto3": ["元\\s*PLUS", "\\bATTO\\s*3\\b"],
+  "model_seal": ["海豹", "\\bSEAL\\b"],
+  "model_dolphin": ["海豚", "\\bDolphin\\b"],
+  "model_sealion": ["海狮", "\\bSEALION\\b"],
+  "model_u9": ["\\bU9(?:X)?\\b"],
+  "model_u8": ["\\bU8\\b"],
+  "model_song": ["宋", "\\bSong\\b"],
+  "model_qin": ["秦", "\\bQin\\b"],
+  "model_han": ["汉", "\\bHan\\b"],
+  "model_tang": ["唐", "\\bTang\\b"],
+  "tech_battery": ["电池", "刀片", "battery", "blade"],
+  "tech_charging": ["充电", "闪充", "charging"],
+  "tech_ota": ["OTA", "车机", "software", "infotainment"],
+  "issue_recall": ["召回", "recall"]
+}

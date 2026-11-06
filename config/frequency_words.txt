@@ -1,0 +1,26 @@
+# BYD-specific hotlist groups. No AI calls are made by this collector.
+[GLOBAL_FILTER]
+
+[WORD_GROUPS]
+
+[BYD brands]
+比亚迪
+/\bBYD\b/i
+腾势
+/\bDenza\b/i
+方程豹
+/Fang.?Cheng.?Bao/i
+仰望
+/\bYangwang\b/i
+
+[BYD models]
+/海豹\s*(?:0[567]|DM|EV)/i
+/海狮\s*(?:0[5678]|DM|EV)/i
+/宋\s*(?:PLUS|PRO|L\s*DM)/i
+/秦\s*(?:PLUS|L\s*DM|L\s*EV)/i
+/元\s*(?:PLUS|UP)/i
+/唐\s*(?:DM|EV|L\s*DM)/i
+/汉\s*(?:DM|EV|L\s*DM)/i
+/豹\s*[578]/i
+/\bATTO\s*[123]\b/i
+/\bSEALION\s*[5678]\b/i
