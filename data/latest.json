@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-07T00:57:07.743254+00:00",
+  "generated_at": "2026-11-07T07:11:01.042465+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 2,
-    "retained_signals": 2
+    "matched_current": 1,
+    "retained_signals": 3
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "359ed5eb24c76a92553d87c87cb4d0db94f8b9369f99e5da6e5b8e83f57a12cf",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪副总裁李柯：一点点做成大事",
+      "url": "https://www.toutiao.com/trending/7705250174368514611/",
+      "rank": 8,
+      "first_seen": "2026-11-07T07:11:01.042465+00:00",
+      "last_seen": "2026-11-07T07:11:01.042465+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "55bef1a06f1e543fbdedb002c650fecbf685164cdb551e1ab31bca851df5fdc6",
       "platform": "zhihu",
