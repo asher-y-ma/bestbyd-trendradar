@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-06T20:27:29.051191+00:00",
+  "generated_at": "2026-11-07T00:57:07.743254+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,8 +54,8 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 1,
-    "retained_signals": 1
+    "matched_current": 2,
+    "retained_signals": 2
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -65,12 +65,25 @@
       "platform_name": "知乎",
       "title": "如何看待仰望 U9 Xtreme 在阿布扎比开放公路跑出 503.17km/h 这件事？",
       "url": "https://www.zhihu.com/question/2102058162580935679",
-      "rank": 1,
+      "rank": 2,
       "first_seen": "2026-11-06T14:17:32.225611+00:00",
-      "last_seen": "2026-11-06T20:27:29.051191+00:00",
+      "last_seen": "2026-11-07T00:57:07.743254+00:00",
       "matched_terms": [
         "brand_yangwang",
         "model_u9"
+      ]
+    },
+    {
+      "id": "5dbe5b482f428361b698e4cbdb6381578d23519f39d527d4c27f5f19d255880c",
+      "platform": "douyin",
+      "platform_name": "抖音",
+      "title": "仰望阿布扎比挑战极速破500km/h",
+      "url": "https://www.douyin.com/hot/2732901",
+      "rank": 4,
+      "first_seen": "2026-11-07T00:57:07.743254+00:00",
+      "last_seen": "2026-11-07T00:57:07.743254+00:00",
+      "matched_terms": [
+        "brand_yangwang"
       ]
     }
   ]
