@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-08T07:45:38.992005+00:00",
+  "generated_at": "2026-11-08T08:45:35.923974+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,20 +54,34 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 1,
-    "retained_signals": 4
+    "matched_current": 2,
+    "retained_signals": 5
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "16fb2faa36ac630c9db8df0cef06520107bf436ffd4f08c1d8f10fbd7b4654f3",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪腾势N8首批实车到店",
+      "url": "https://www.toutiao.com/trending/7704660428626427958/",
+      "rank": 13,
+      "first_seen": "2026-11-08T08:45:35.923974+00:00",
+      "last_seen": "2026-11-08T08:45:35.923974+00:00",
+      "matched_terms": [
+        "brand_byd",
+        "brand_denza"
+      ]
+    },
     {
       "id": "dfd3485641bb07c99e19c40c757ace8d782e4e928753c0d0888355bc709f90a8",
       "platform": "toutiao",
       "platform_name": "今日头条",
       "title": "方程豹钛9车型月底上市",
       "url": "https://www.toutiao.com/trending/7704879172175134730/",
-      "rank": 10,
+      "rank": 17,
       "first_seen": "2026-11-08T06:46:36.871347+00:00",
-      "last_seen": "2026-11-08T07:45:38.992005+00:00",
+      "last_seen": "2026-11-08T08:45:35.923974+00:00",
       "matched_terms": [
         "brand_fangchengbao"
       ]
