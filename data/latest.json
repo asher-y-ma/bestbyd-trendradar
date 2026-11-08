@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-08T12:45:36.750839+00:00",
+  "generated_at": "2026-11-08T13:45:37.802271+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "百度热搜",
       "title": "比亚迪高管回应收购玛莎拉蒂传闻",
       "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94%E6%94%B6%E8%B4%AD%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82%E4%BC%A0%E9%97%BB",
-      "rank": 23,
+      "rank": 19,
       "first_seen": "2026-11-08T10:45:36.055761+00:00",
-      "last_seen": "2026-11-08T12:45:36.750839+00:00",
+      "last_seen": "2026-11-08T13:45:37.802271+00:00",
       "matched_terms": [
         "brand_byd"
       ]
