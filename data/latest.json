@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-08T17:45:37.300315+00:00",
+  "generated_at": "2026-11-08T18:45:35.855684+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -67,7 +67,7 @@
       "url": "https://www.zhihu.com/question/2102552604710647639",
       "rank": 5,
       "first_seen": "2026-11-08T15:45:40.840662+00:00",
-      "last_seen": "2026-11-08T17:45:37.300315+00:00",
+      "last_seen": "2026-11-08T18:45:35.855684+00:00",
       "matched_terms": [
         "brand_byd",
         "brand_yangwang"
@@ -79,9 +79,9 @@
       "platform_name": "今日头条",
       "title": "比亚迪李云飞：今年销量预计略有增长",
       "url": "https://www.toutiao.com/trending/7705803303665418283/",
-      "rank": 17,
+      "rank": 26,
       "first_seen": "2026-11-08T16:45:35.403734+00:00",
-      "last_seen": "2026-11-08T17:45:37.300315+00:00",
+      "last_seen": "2026-11-08T18:45:35.855684+00:00",
       "matched_terms": [
         "brand_byd"
       ]
