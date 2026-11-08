@@ -6,12 +6,14 @@
 
 ## 运行安排
 
-- GitHub Actions 每小时第 17 分钟采集一次，也可在 Actions 页面手动运行 **Collect BYD trends**。
+- 主调度：现有 Hostinger 定时任务每 15 分钟检查一次；采集数据超过 55 分钟时，通过本仓库专用 SSH 部署密钥更新 `hostinger-trigger` 请求分支，启动 GitHub Actions。
+- GitHub 原生每小时第 17 分钟 schedule 保留为备用；两条路径共享 55 分钟新鲜度检查，避免重复采集。也可在 Actions 页面手动运行 **Collect BYD trends**。
 - 来源：微博、抖音、知乎、B站热搜、百度热搜、今日头条、澎湃新闻、财联社热门。
 - 关注比亚迪、腾势、仰望、方程豹和明确的相关车型名称；热榜没有覆盖的帖子不会被发现。
 - `data/latest.json` 保存最近 7 天内出现过的相关线索，最多 500 条，保留首次/最近观测时间与原始链接。
 - `reports/latest.html` 和在线报告页是 TrendRadar 生成的最新关键词报告。
 - 全部采集失败时任务报错，保留上次成功结果；部分平台失败时输出 `degraded`，不会伪装为全源成功。
+- 每个成功的外部请求有真实请求时间和原因，保存在独立请求分支。工作流始终检出 main，运行结果仅提交到 main；触发请求不合并到 main。Hostinger 私钥不在本仓库，也未上传 GitHub 账户级令牌。
 
 ## 与 BestBYD 的关系
 
@@ -27,7 +29,7 @@ BestBYD 的 Hostinger 后端按小时读取公开 JSON，将热点用于匹配�
 - `scripts/export_bestbyd.py`：验证平台域名、筛选相关标题、去重和过期处理。
 - `upstream.json`：固定的上游版本和提交。工作流使用同一提交，升级前需重新验证配置与数据库格式。
 
-使用标准 Ubuntu GitHub-hosted runner，没有采购服务器或付费服务。GitHub 的免费政策、调度延迟、仓库不活跃停用规则仍适用。工作流会提交真实采集结果，不添加专门的空提交或签到任务。GitHub 故障、上游热榜接口不可用或平台变更仍可能影响更新。
+使用标准 Ubuntu GitHub-hosted runner，没有采购服务器或付费服务。GitHub 的免费政策、调度延迟、仓库不活跃停用规则仍适用。工作流会提交真实采集结果，不添加专门的空提交或签到任务。Hostinger 补触发能减少对 GitHub 原生 schedule 的依赖；GitHub 排队、故障、上游热榜接口不可用或平台变更仍可能影响更新，无法保证严格准点。
 
 此仓库公开，代码、配置、采集标题、来源链接、报告和提交历史可被公众查看。不要提交 Cookie、AI 密钥、WordPress 密码或私人联系信息。删除最新 JSON 中的旧条目不会删除 Git 历史。
 
