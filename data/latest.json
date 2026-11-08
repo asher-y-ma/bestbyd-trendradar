@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-08T19:45:38.932867+00:00",
+  "generated_at": "2026-11-08T20:45:40.719440+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "知乎",
       "title": "比亚迪超豪华行政旗舰仰望「鼎曜」全球首秀，这款车的市场竞争力如何？",
       "url": "https://www.zhihu.com/question/2102552604710647639",
-      "rank": 5,
+      "rank": 4,
       "first_seen": "2026-11-08T15:45:40.840662+00:00",
-      "last_seen": "2026-11-08T19:45:38.932867+00:00",
+      "last_seen": "2026-11-08T20:45:40.719440+00:00",
       "matched_terms": [
         "brand_byd",
         "brand_yangwang"
