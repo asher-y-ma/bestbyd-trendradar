@@ -5,12 +5,13 @@ on:
     - cron: '17 * * * *'
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [main, hostinger-trigger]
     paths:
       - '.github/workflows/collect.yml'
       - 'config/**'
       - 'scripts/**'
       - 'upstream.json'
+      - 'data/hostinger-trigger.json'
 
 concurrency:
   group: bestbyd-trendradar
@@ -34,7 +35,15 @@ jobs:
     steps:
       - name: Check out monitoring configuration
         uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+      - name: Check collection freshness
+        id: gate
+        env:
+          REQUEST_MESSAGE: ${{ github.event.head_commit.message }}
+        run: python scripts/collection_gate.py
       - name: Check out pinned TrendRadar source
+        if: steps.gate.outputs.collect == 'true'
         uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
         with:
           repository: sansan0/TrendRadar
@@ -42,28 +51,35 @@ jobs:
           path: .runtime
           persist-credentials: false
       - name: Set up Python
+        if: steps.gate.outputs.collect == 'true'
         uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: '3.12'
       - name: Set up uv
+        if: steps.gate.outputs.collect == 'true'
         uses: astral-sh/setup-uv@94527f2e458b27549849d47d273a16bec83a01e9 # v7
         with:
           version: '0.11.7'
           enable-cache: true
           cache-dependency-glob: .runtime/uv.lock
       - name: Install pinned upstream dependencies
+        if: steps.gate.outputs.collect == 'true'
         run: uv sync --project .runtime --locked --no-dev
       - name: Configure BYD monitoring
+        if: steps.gate.outputs.collect == 'true'
         run: |
           cp config/config.yaml .runtime/config/config.yaml
           cp config/frequency_words.txt .runtime/config/frequency_words.txt
           python -m unittest discover -s scripts -p 'test_*.py'
       - name: Run TrendRadar without AI or notifications
+        if: steps.gate.outputs.collect == 'true'
         working-directory: .runtime
         run: uv run --locked --no-dev python -m trendradar
       - name: Export validated BYD signals and report
+        if: steps.gate.outputs.collect == 'true'
         run: python scripts/export_bestbyd.py --runtime .runtime
       - name: Save real collection results
+        if: steps.gate.outputs.collect == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -73,6 +89,7 @@ jobs:
             git push origin HEAD:main
           fi
       - name: Refresh public monitoring report
+        if: steps.gate.outputs.collect == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds" --silent
