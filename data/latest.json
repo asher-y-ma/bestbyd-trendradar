@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-08T15:45:40.840662+00:00",
+  "generated_at": "2026-11-08T16:45:35.403734+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,20 +54,33 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 1,
-    "retained_signals": 7
+    "matched_current": 2,
+    "retained_signals": 8
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "cf911f941c6eadd09f2c32e0d23758ceee260dc4c679a89d0d0b29425fdf7d82",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪李云飞：今年销量预计略有增长",
+      "url": "https://www.toutiao.com/trending/7705803303665418283/",
+      "rank": 7,
+      "first_seen": "2026-11-08T16:45:35.403734+00:00",
+      "last_seen": "2026-11-08T16:45:35.403734+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "f8abfbfacc379c953f0c3d97ba41659235d6b727a58eac2165f1e35947564983",
       "platform": "zhihu",
       "platform_name": "知乎",
       "title": "比亚迪超豪华行政旗舰仰望「鼎曜」全球首秀，这款车的市场竞争力如何？",
       "url": "https://www.zhihu.com/question/2102552604710647639",
-      "rank": 12,
+      "rank": 11,
       "first_seen": "2026-11-08T15:45:40.840662+00:00",
-      "last_seen": "2026-11-08T15:45:40.840662+00:00",
+      "last_seen": "2026-11-08T16:45:35.403734+00:00",
       "matched_terms": [
         "brand_byd",
         "brand_yangwang"
