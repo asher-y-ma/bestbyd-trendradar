@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-08T09:45:37.615926+00:00",
+  "generated_at": "2026-11-08T10:45:36.055761+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 2,
-    "retained_signals": 5
+    "matched_current": 1,
+    "retained_signals": 6
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "7cce7e4d71cc63ee4f86047f588585dd566d772ec8debb0af3d387b4598c19d9",
+      "platform": "baidu",
+      "platform_name": "百度热搜",
+      "title": "比亚迪高管回应收购玛莎拉蒂传闻",
+      "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94%E6%94%B6%E8%B4%AD%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82%E4%BC%A0%E9%97%BB",
+      "rank": 29,
+      "first_seen": "2026-11-08T10:45:36.055761+00:00",
+      "last_seen": "2026-11-08T10:45:36.055761+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "16fb2faa36ac630c9db8df0cef06520107bf436ffd4f08c1d8f10fbd7b4654f3",
       "platform": "toutiao",
