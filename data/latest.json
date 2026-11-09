@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-09T10:45:37.027958+00:00",
+  "generated_at": "2026-11-09T11:45:37.215326+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,20 +54,33 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 1,
-    "retained_signals": 12
+    "matched_current": 2,
+    "retained_signals": 13
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "e7e7c6d5fda87f1e9c66ef177c2f30aeebb52307fe6e072b0654c16f37b2b815",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪为何把百万豪车首发放在中东",
+      "url": "https://www.toutiao.com/trending/7706101787584892457/",
+      "rank": 22,
+      "first_seen": "2026-11-09T11:45:37.215326+00:00",
+      "last_seen": "2026-11-09T11:45:37.215326+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "e36886a46eebb59916a672816b9f75005959849b6259c6d1aa261c3195beb75a",
       "platform": "toutiao",
       "platform_name": "今日头条",
       "title": "比亚迪第1900万辆新能源汽车下线",
       "url": "https://www.toutiao.com/trending/7705272407279927359/",
-      "rank": 27,
+      "rank": 25,
       "first_seen": "2026-11-09T10:45:37.027958+00:00",
-      "last_seen": "2026-11-09T10:45:37.027958+00:00",
+      "last_seen": "2026-11-09T11:45:37.215326+00:00",
       "matched_terms": [
         "brand_byd"
       ]
