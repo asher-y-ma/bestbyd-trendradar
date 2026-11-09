@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-09T08:45:37.430337+00:00",
+  "generated_at": "2026-11-09T09:45:40.063279+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,25 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 10
+    "matched_current": 1,
+    "retained_signals": 11
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "4d1e10e936502cc954a97256a5a007220653b53edeb41d345ea946d5362ef081",
+      "platform": "baidu",
+      "platform_name": "百度热搜",
+      "title": "比亚迪大唐前后轮毂装反",
+      "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%A4%A7%E5%94%90%E5%89%8D%E5%90%8E%E8%BD%AE%E6%AF%82%E8%A3%85%E5%8F%8D",
+      "rank": 27,
+      "first_seen": "2026-11-09T09:45:40.063279+00:00",
+      "last_seen": "2026-11-09T09:45:40.063279+00:00",
+      "matched_terms": [
+        "brand_byd",
+        "model_tang"
+      ]
+    },
     {
       "id": "9cf0c8a96035efb1f8c1e567dfdd324024d9d9576d0ae599c7f21347dece34a2",
       "platform": "toutiao",
