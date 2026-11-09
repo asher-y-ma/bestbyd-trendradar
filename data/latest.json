@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-09T11:45:37.215326+00:00",
+  "generated_at": "2026-11-09T12:45:41.209606+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,7 +54,7 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 2,
+    "matched_current": 1,
     "retained_signals": 13
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
@@ -65,9 +65,9 @@
       "platform_name": "今日头条",
       "title": "比亚迪为何把百万豪车首发放在中东",
       "url": "https://www.toutiao.com/trending/7706101787584892457/",
-      "rank": 22,
+      "rank": 24,
       "first_seen": "2026-11-09T11:45:37.215326+00:00",
-      "last_seen": "2026-11-09T11:45:37.215326+00:00",
+      "last_seen": "2026-11-09T12:45:41.209606+00:00",
       "matched_terms": [
         "brand_byd"
       ]
