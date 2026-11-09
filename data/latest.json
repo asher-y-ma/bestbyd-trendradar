@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-09T18:45:41.452809+00:00",
+  "generated_at": "2026-11-09T19:45:38.463106+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 14
+    "matched_current": 1,
+    "retained_signals": 15
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "1acf42270cfd7813abe78eb3eed392d3b52678bd5cff0abb9e36bae84be8c574",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "方程豹钛9顶配版官宣",
+      "url": "https://www.toutiao.com/trending/7704519294998302249/",
+      "rank": 28,
+      "first_seen": "2026-11-09T19:45:38.463106+00:00",
+      "last_seen": "2026-11-09T19:45:38.463106+00:00",
+      "matched_terms": [
+        "brand_fangchengbao"
+      ]
+    },
     {
       "id": "04866a4d98e08dcdff5c73fd0f9685681142624c7585de29b5ee46a053f78733",
       "platform": "weibo",
