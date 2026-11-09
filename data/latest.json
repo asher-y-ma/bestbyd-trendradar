@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-09T06:45:39.549887+00:00",
+  "generated_at": "2026-11-09T07:45:41.920157+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,25 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 9
+    "matched_current": 1,
+    "retained_signals": 10
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "9cf0c8a96035efb1f8c1e567dfdd324024d9d9576d0ae599c7f21347dece34a2",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪仰望鼎曜旗舰轿车现身官网",
+      "url": "https://www.toutiao.com/trending/7705187510128885814/",
+      "rank": 21,
+      "first_seen": "2026-11-09T07:45:41.920157+00:00",
+      "last_seen": "2026-11-09T07:45:41.920157+00:00",
+      "matched_terms": [
+        "brand_byd",
+        "brand_yangwang"
+      ]
+    },
     {
       "id": "25d3ba189ebff3063f44cdb048e6515c6e0c15250a958336880ada697781e0d6",
       "platform": "toutiao",
