@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-09T03:45:36.614482+00:00",
+  "generated_at": "2026-11-09T04:45:38.160936+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,25 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 8
+    "matched_current": 1,
+    "retained_signals": 9
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "25d3ba189ebff3063f44cdb048e6515c6e0c15250a958336880ada697781e0d6",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪李柯回应仰望为何要做全华班",
+      "url": "https://www.toutiao.com/trending/7705709267097010218/",
+      "rank": 24,
+      "first_seen": "2026-11-09T04:45:38.160936+00:00",
+      "last_seen": "2026-11-09T04:45:38.160936+00:00",
+      "matched_terms": [
+        "brand_byd",
+        "brand_yangwang"
+      ]
+    },
     {
       "id": "f8abfbfacc379c953f0c3d97ba41659235d6b727a58eac2165f1e35947564983",
       "platform": "zhihu",
