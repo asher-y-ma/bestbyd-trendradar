@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-09T09:45:40.063279+00:00",
+  "generated_at": "2026-11-09T10:45:37.027958+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,10 +55,23 @@
     ],
     "total_items": 203,
     "matched_current": 1,
-    "retained_signals": 11
+    "retained_signals": 12
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "e36886a46eebb59916a672816b9f75005959849b6259c6d1aa261c3195beb75a",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪第1900万辆新能源汽车下线",
+      "url": "https://www.toutiao.com/trending/7705272407279927359/",
+      "rank": 27,
+      "first_seen": "2026-11-09T10:45:37.027958+00:00",
+      "last_seen": "2026-11-09T10:45:37.027958+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "4d1e10e936502cc954a97256a5a007220653b53edeb41d345ea946d5362ef081",
       "platform": "baidu",
