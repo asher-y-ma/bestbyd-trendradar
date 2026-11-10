@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-10T04:45:37.671451+00:00",
+  "generated_at": "2026-11-10T05:45:36.341405+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,25 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 16
+    "matched_current": 1,
+    "retained_signals": 17
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "572a251b5746bce5a685d17127932d436a15b0ba33c53c05a712ea984f1b8040",
+      "platform": "thepaper",
+      "platform_name": "澎湃新闻",
+      "title": "多位车主投诉比亚迪大唐前后轮毂装反，比亚迪客服：收到相关反馈，可至附近4S店检查",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34440618",
+      "rank": 9,
+      "first_seen": "2026-11-10T05:45:36.341405+00:00",
+      "last_seen": "2026-11-10T05:45:36.341405+00:00",
+      "matched_terms": [
+        "brand_byd",
+        "model_tang"
+      ]
+    },
     {
       "id": "8476424cc29e279b776270a9fc7f7e3af5421cb40b5f5713dddabf2cfa176365",
       "platform": "weibo",
