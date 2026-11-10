@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-10T12:45:40.950108+00:00",
+  "generated_at": "2026-11-10T13:45:37.610429+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,8 +54,8 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 3,
-    "retained_signals": 21
+    "matched_current": 6,
+    "retained_signals": 23
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -67,7 +67,7 @@
       "url": "https://www.zhihu.com/question/2102801912580067910",
       "rank": 1,
       "first_seen": "2026-11-10T06:45:34.473152+00:00",
-      "last_seen": "2026-11-10T12:45:40.950108+00:00",
+      "last_seen": "2026-11-10T13:45:37.610429+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
@@ -81,23 +81,10 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34440618",
       "rank": 7,
       "first_seen": "2026-11-10T05:45:36.341405+00:00",
-      "last_seen": "2026-11-10T12:45:40.950108+00:00",
+      "last_seen": "2026-11-10T13:45:37.610429+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
-      ]
-    },
-    {
-      "id": "3417c73f9228ad234244794646396c625a614e0b1efe5ff3974012a433ef0555",
-      "platform": "baidu",
-      "platform_name": "百度热搜",
-      "title": "新能源车销量：比亚迪吉利零跑前三",
-      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E9%94%80%E9%87%8F%EF%BC%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%90%89%E5%88%A9%E9%9B%B6%E8%B7%91%E5%89%8D%E4%B8%89",
-      "rank": 23,
-      "first_seen": "2026-11-10T12:45:40.950108+00:00",
-      "last_seen": "2026-11-10T12:45:40.950108+00:00",
-      "matched_terms": [
-        "brand_byd"
       ]
     },
     {
@@ -106,11 +93,51 @@
       "platform_name": "今日头条",
       "title": "比亚迪全新双门微型车外观专利图曝光",
       "url": "https://www.toutiao.com/trending/7706215102919229503/",
-      "rank": 17,
+      "rank": 10,
       "first_seen": "2026-11-10T10:45:39.758409+00:00",
-      "last_seen": "2026-11-10T11:45:36.899984+00:00",
+      "last_seen": "2026-11-10T13:45:37.610429+00:00",
       "matched_terms": [
         "brand_byd"
+      ]
+    },
+    {
+      "id": "9626f61f2dfb451d12d05338fe5528749098061435c14923270b4763d26cf945",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪欧洲“撞墙”",
+      "url": "https://www.toutiao.com/trending/7706042675610436123/",
+      "rank": 17,
+      "first_seen": "2026-11-10T13:45:37.610429+00:00",
+      "last_seen": "2026-11-10T13:45:37.610429+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
+    {
+      "id": "3417c73f9228ad234244794646396c625a614e0b1efe5ff3974012a433ef0555",
+      "platform": "baidu",
+      "platform_name": "百度热搜",
+      "title": "新能源车销量：比亚迪吉利零跑前三",
+      "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E9%94%80%E9%87%8F%EF%BC%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%90%89%E5%88%A9%E9%9B%B6%E8%B7%91%E5%89%8D%E4%B8%89",
+      "rank": 22,
+      "first_seen": "2026-11-10T12:45:40.950108+00:00",
+      "last_seen": "2026-11-10T13:45:37.610429+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
+    {
+      "id": "363df9e1fc1f1586bf532008e22c6dfb86777ba1efee057a309b1dab97b44aa5",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪把仰望带去阿布扎比意味着什么",
+      "url": "https://www.toutiao.com/trending/7706492708033924644/",
+      "rank": 27,
+      "first_seen": "2026-11-10T13:45:37.610429+00:00",
+      "last_seen": "2026-11-10T13:45:37.610429+00:00",
+      "matched_terms": [
+        "brand_byd",
+        "brand_yangwang"
       ]
     },
     {
