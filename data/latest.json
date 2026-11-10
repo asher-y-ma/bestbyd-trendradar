@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-09T23:45:40.769376+00:00",
+  "generated_at": "2026-11-10T00:45:38.645834+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 15
+    "matched_current": 1,
+    "retained_signals": 16
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "8476424cc29e279b776270a9fc7f7e3af5421cb40b5f5713dddabf2cfa176365",
+      "platform": "weibo",
+      "platform_name": "微博",
+      "title": "比亚迪荷兰办公室遭突击搜查",
+      "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%8D%B7%E5%85%B0%E5%8A%9E%E5%85%AC%E5%AE%A4%E9%81%AD%E7%AA%81%E5%87%BB%E6%90%9C%E6%9F%A5",
+      "rank": 18,
+      "first_seen": "2026-11-10T00:45:38.645834+00:00",
+      "last_seen": "2026-11-10T00:45:38.645834+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "1acf42270cfd7813abe78eb3eed392d3b52678bd5cff0abb9e36bae84be8c574",
       "platform": "toutiao",
