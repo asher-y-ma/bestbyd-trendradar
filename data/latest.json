@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-10T13:45:37.610429+00:00",
+  "generated_at": "2026-11-10T14:45:40.014078+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,7 +54,7 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 6,
+    "matched_current": 3,
     "retained_signals": 23
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
@@ -67,7 +67,7 @@
       "url": "https://www.zhihu.com/question/2102801912580067910",
       "rank": 1,
       "first_seen": "2026-11-10T06:45:34.473152+00:00",
-      "last_seen": "2026-11-10T13:45:37.610429+00:00",
+      "last_seen": "2026-11-10T14:45:40.014078+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
@@ -79,12 +79,25 @@
       "platform_name": "澎湃新闻",
       "title": "多位车主投诉比亚迪大唐前后轮毂装反，比亚迪客服：收到相关反馈，可至附近4S店检查",
       "url": "https://www.thepaper.cn/newsDetail_forward_34440618",
-      "rank": 7,
+      "rank": 6,
       "first_seen": "2026-11-10T05:45:36.341405+00:00",
-      "last_seen": "2026-11-10T13:45:37.610429+00:00",
+      "last_seen": "2026-11-10T14:45:40.014078+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
+      ]
+    },
+    {
+      "id": "9626f61f2dfb451d12d05338fe5528749098061435c14923270b4763d26cf945",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪欧洲“撞墙”",
+      "url": "https://www.toutiao.com/trending/7706042675610436123/",
+      "rank": 19,
+      "first_seen": "2026-11-10T13:45:37.610429+00:00",
+      "last_seen": "2026-11-10T14:45:40.014078+00:00",
+      "matched_terms": [
+        "brand_byd"
       ]
     },
     {
@@ -95,19 +108,6 @@
       "url": "https://www.toutiao.com/trending/7706215102919229503/",
       "rank": 10,
       "first_seen": "2026-11-10T10:45:39.758409+00:00",
-      "last_seen": "2026-11-10T13:45:37.610429+00:00",
-      "matched_terms": [
-        "brand_byd"
-      ]
-    },
-    {
-      "id": "9626f61f2dfb451d12d05338fe5528749098061435c14923270b4763d26cf945",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "比亚迪欧洲“撞墙”",
-      "url": "https://www.toutiao.com/trending/7706042675610436123/",
-      "rank": 17,
-      "first_seen": "2026-11-10T13:45:37.610429+00:00",
       "last_seen": "2026-11-10T13:45:37.610429+00:00",
       "matched_terms": [
         "brand_byd"
