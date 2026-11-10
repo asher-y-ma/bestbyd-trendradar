@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-10T06:45:34.473152+00:00",
+  "generated_at": "2026-11-10T07:45:34.883936+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,8 +54,8 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 2,
-    "retained_signals": 18
+    "matched_current": 3,
+    "retained_signals": 19
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -65,9 +65,9 @@
       "platform_name": "知乎",
       "title": "如何评价近期车质网与社媒大量投诉比亚迪大唐轮毂出厂前后装反问题，比亚迪售后称确有部分批次发生该情况？",
       "url": "https://www.zhihu.com/question/2102801912580067910",
-      "rank": 4,
+      "rank": 2,
       "first_seen": "2026-11-10T06:45:34.473152+00:00",
-      "last_seen": "2026-11-10T06:45:34.473152+00:00",
+      "last_seen": "2026-11-10T07:45:34.883936+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
@@ -79,12 +79,25 @@
       "platform_name": "澎湃新闻",
       "title": "多位车主投诉比亚迪大唐前后轮毂装反，比亚迪客服：收到相关反馈，可至附近4S店检查",
       "url": "https://www.thepaper.cn/newsDetail_forward_34440618",
-      "rank": 7,
+      "rank": 6,
       "first_seen": "2026-11-10T05:45:36.341405+00:00",
-      "last_seen": "2026-11-10T06:45:34.473152+00:00",
+      "last_seen": "2026-11-10T07:45:34.883936+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
+      ]
+    },
+    {
+      "id": "f54ac1e46a808c03b60c72f1d4c51967ddb05d6c28d9d8765b25ae29366c8366",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪副总裁把中国非遗穿上国际舞台",
+      "url": "https://www.toutiao.com/trending/7705820624576528922/",
+      "rank": 17,
+      "first_seen": "2026-11-10T07:45:34.883936+00:00",
+      "last_seen": "2026-11-10T07:45:34.883936+00:00",
+      "matched_terms": [
+        "brand_byd"
       ]
     },
     {
