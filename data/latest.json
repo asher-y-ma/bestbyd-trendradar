@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-11T10:45:39.917658+00:00",
+  "generated_at": "2026-11-11T11:45:37.067614+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,7 +54,7 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 4,
+    "matched_current": 3,
     "retained_signals": 30
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
@@ -65,12 +65,40 @@
       "platform_name": "知乎",
       "title": "比亚迪就大唐轮辋装配问题致歉，系供应商编码录入失误造成错装，不影响操控，具体什么情况？实际影响多大？",
       "url": "https://www.zhihu.com/question/2103833839650829073",
-      "rank": 2,
+      "rank": 6,
       "first_seen": "2026-11-11T06:45:39.846282+00:00",
-      "last_seen": "2026-11-11T10:45:39.917658+00:00",
+      "last_seen": "2026-11-11T11:45:37.067614+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
+      ]
+    },
+    {
+      "id": "aa47f22dee3481fc0b95c5e5cfe4482d937b8a39db17c1cafb68a09e400e3288",
+      "platform": "thepaper",
+      "platform_name": "澎湃新闻",
+      "title": "比亚迪回应多位车主投诉大唐车辆前后轮毂装反",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34451916",
+      "rank": 6,
+      "first_seen": "2026-11-11T06:45:39.846282+00:00",
+      "last_seen": "2026-11-11T11:45:37.067614+00:00",
+      "matched_terms": [
+        "brand_byd",
+        "model_tang"
+      ]
+    },
+    {
+      "id": "e102ce3c21a7f23b769709d7797fec68c7469e3b3c13800e433392e9d41c221d",
+      "platform": "zhihu",
+      "platform_name": "知乎",
+      "title": "如何看待外媒曝比亚迪荷兰办公室遭突击搜查，相关电子记录被封存，捷豹路虎指控方程豹钛 7 逆向工程抄袭卫士？",
+      "url": "https://www.zhihu.com/question/2103428518323475771",
+      "rank": 16,
+      "first_seen": "2026-11-11T05:45:37.351482+00:00",
+      "last_seen": "2026-11-11T11:45:37.067614+00:00",
+      "matched_terms": [
+        "brand_byd",
+        "brand_fangchengbao"
       ]
     },
     {
@@ -85,34 +113,6 @@
       "matched_terms": [
         "brand_byd",
         "model_tang"
-      ]
-    },
-    {
-      "id": "aa47f22dee3481fc0b95c5e5cfe4482d937b8a39db17c1cafb68a09e400e3288",
-      "platform": "thepaper",
-      "platform_name": "澎湃新闻",
-      "title": "比亚迪回应多位车主投诉大唐车辆前后轮毂装反",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34451916",
-      "rank": 7,
-      "first_seen": "2026-11-11T06:45:39.846282+00:00",
-      "last_seen": "2026-11-11T10:45:39.917658+00:00",
-      "matched_terms": [
-        "brand_byd",
-        "model_tang"
-      ]
-    },
-    {
-      "id": "e102ce3c21a7f23b769709d7797fec68c7469e3b3c13800e433392e9d41c221d",
-      "platform": "zhihu",
-      "platform_name": "知乎",
-      "title": "如何看待外媒曝比亚迪荷兰办公室遭突击搜查，相关电子记录被封存，捷豹路虎指控方程豹钛 7 逆向工程抄袭卫士？",
-      "url": "https://www.zhihu.com/question/2103428518323475771",
-      "rank": 16,
-      "first_seen": "2026-11-11T05:45:37.351482+00:00",
-      "last_seen": "2026-11-11T10:45:39.917658+00:00",
-      "matched_terms": [
-        "brand_byd",
-        "brand_fangchengbao"
       ]
     },
     {
