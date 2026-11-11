@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-11T04:45:39.528920+00:00",
+  "generated_at": "2026-11-11T05:45:37.351482+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,25 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 24
+    "matched_current": 1,
+    "retained_signals": 25
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "e102ce3c21a7f23b769709d7797fec68c7469e3b3c13800e433392e9d41c221d",
+      "platform": "zhihu",
+      "platform_name": "知乎",
+      "title": "如何看待外媒曝比亚迪荷兰办公室遭突击搜查，相关电子记录被封存，捷豹路虎指控方程豹钛 7 逆向工程抄袭卫士？",
+      "url": "https://www.zhihu.com/question/2103428518323475771",
+      "rank": 16,
+      "first_seen": "2026-11-11T05:45:37.351482+00:00",
+      "last_seen": "2026-11-11T05:45:37.351482+00:00",
+      "matched_terms": [
+        "brand_byd",
+        "brand_fangchengbao"
+      ]
+    },
     {
       "id": "572a251b5746bce5a685d17127932d436a15b0ba33c53c05a712ea984f1b8040",
       "platform": "thepaper",
