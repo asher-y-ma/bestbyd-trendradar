@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-10T23:45:39.829079+00:00",
+  "generated_at": "2026-11-11T00:45:39.948859+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,7 +54,7 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 4,
+    "matched_current": 3,
     "retained_signals": 24
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
@@ -65,9 +65,9 @@
       "platform_name": "澎湃新闻",
       "title": "多位车主投诉比亚迪大唐前后轮毂装反，比亚迪客服：收到相关反馈，可至附近4S店检查",
       "url": "https://www.thepaper.cn/newsDetail_forward_34440618",
-      "rank": 6,
+      "rank": 8,
       "first_seen": "2026-11-10T05:45:36.341405+00:00",
-      "last_seen": "2026-11-10T23:45:39.829079+00:00",
+      "last_seen": "2026-11-11T00:45:39.948859+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
@@ -79,9 +79,9 @@
       "platform_name": "知乎",
       "title": "如何评价比亚迪大唐被曝存在轮毂出厂前后装反问题，比亚迪售后称确有部分批次发生该情况？",
       "url": "https://www.zhihu.com/question/2102801912580067910",
-      "rank": 11,
+      "rank": 10,
       "first_seen": "2026-11-10T06:45:34.473152+00:00",
-      "last_seen": "2026-11-10T23:45:39.829079+00:00",
+      "last_seen": "2026-11-11T00:45:39.948859+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
@@ -93,9 +93,9 @@
       "platform_name": "今日头条",
       "title": "路虎为何要在荷兰起诉比亚迪",
       "url": "https://www.toutiao.com/trending/7706546993849437715/",
-      "rank": 16,
+      "rank": 18,
       "first_seen": "2026-11-10T16:45:40.771407+00:00",
-      "last_seen": "2026-11-10T23:45:39.829079+00:00",
+      "last_seen": "2026-11-11T00:45:39.948859+00:00",
       "matched_terms": [
         "brand_byd"
       ]
