@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-11T15:45:39.488371+00:00",
+  "generated_at": "2026-11-11T16:45:39.523429+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -67,7 +67,7 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34451916",
       "rank": 2,
       "first_seen": "2026-11-11T06:45:39.846282+00:00",
-      "last_seen": "2026-11-11T15:45:39.488371+00:00",
+      "last_seen": "2026-11-11T16:45:39.523429+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
@@ -81,7 +81,7 @@
       "url": "https://www.zhihu.com/question/2103833839650829073",
       "rank": 9,
       "first_seen": "2026-11-11T06:45:39.846282+00:00",
-      "last_seen": "2026-11-11T15:45:39.488371+00:00",
+      "last_seen": "2026-11-11T16:45:39.523429+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
@@ -95,7 +95,7 @@
       "url": "https://www.zhihu.com/question/2103428518323475771",
       "rank": 17,
       "first_seen": "2026-11-11T05:45:37.351482+00:00",
-      "last_seen": "2026-11-11T15:45:39.488371+00:00",
+      "last_seen": "2026-11-11T16:45:39.523429+00:00",
       "matched_terms": [
         "brand_byd",
         "brand_fangchengbao"
