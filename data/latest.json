@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-11T07:45:36.302118+00:00",
+  "generated_at": "2026-11-11T08:45:38.723558+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,8 +54,8 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 4,
-    "retained_signals": 28
+    "matched_current": 5,
+    "retained_signals": 29
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -65,25 +65,26 @@
       "platform_name": "知乎",
       "title": "比亚迪就大唐轮辋装配问题致歉，系供应商编码录入失误造成错装，不影响操控，具体什么情况？实际影响多大？",
       "url": "https://www.zhihu.com/question/2103833839650829073",
-      "rank": 4,
+      "rank": 2,
       "first_seen": "2026-11-11T06:45:39.846282+00:00",
-      "last_seen": "2026-11-11T07:45:36.302118+00:00",
+      "last_seen": "2026-11-11T08:45:38.723558+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
       ]
     },
     {
-      "id": "6e05eb7619c7a1fab509b0de637536e872c082eb348a6ccee8a030838f97ffa4",
+      "id": "ba5cf81ea755b7f0ef64efbc1d91c48796c5d164e0a14a673474b258f9c5de63",
       "platform": "weibo",
       "platform_name": "微博",
-      "title": "比亚迪汽车发布声明",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%23",
-      "rank": 6,
-      "first_seen": "2026-11-11T06:45:39.846282+00:00",
-      "last_seen": "2026-11-11T07:45:36.302118+00:00",
+      "title": "比亚迪对错装大唐车辆重新起算整车质保",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AF%B9%E9%94%99%E8%A3%85%E5%A4%A7%E5%94%90%E8%BD%A6%E8%BE%86%E9%87%8D%E6%96%B0%E8%B5%B7%E7%AE%97%E6%95%B4%E8%BD%A6%E8%B4%A8%E4%BF%9D%23",
+      "rank": 7,
+      "first_seen": "2026-11-11T08:45:38.723558+00:00",
+      "last_seen": "2026-11-11T08:45:38.723558+00:00",
       "matched_terms": [
-        "brand_byd"
+        "brand_byd",
+        "model_tang"
       ]
     },
     {
@@ -92,9 +93,9 @@
       "platform_name": "澎湃新闻",
       "title": "比亚迪回应多位车主投诉大唐车辆前后轮毂装反",
       "url": "https://www.thepaper.cn/newsDetail_forward_34451916",
-      "rank": 9,
+      "rank": 8,
       "first_seen": "2026-11-11T06:45:39.846282+00:00",
-      "last_seen": "2026-11-11T07:45:36.302118+00:00",
+      "last_seen": "2026-11-11T08:45:38.723558+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
@@ -106,12 +107,25 @@
       "platform_name": "知乎",
       "title": "如何看待外媒曝比亚迪荷兰办公室遭突击搜查，相关电子记录被封存，捷豹路虎指控方程豹钛 7 逆向工程抄袭卫士？",
       "url": "https://www.zhihu.com/question/2103428518323475771",
-      "rank": 18,
+      "rank": 17,
       "first_seen": "2026-11-11T05:45:37.351482+00:00",
-      "last_seen": "2026-11-11T07:45:36.302118+00:00",
+      "last_seen": "2026-11-11T08:45:38.723558+00:00",
       "matched_terms": [
         "brand_byd",
         "brand_fangchengbao"
+      ]
+    },
+    {
+      "id": "6e05eb7619c7a1fab509b0de637536e872c082eb348a6ccee8a030838f97ffa4",
+      "platform": "weibo",
+      "platform_name": "微博",
+      "title": "比亚迪汽车发布声明",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%23",
+      "rank": 30,
+      "first_seen": "2026-11-11T06:45:39.846282+00:00",
+      "last_seen": "2026-11-11T08:45:38.723558+00:00",
+      "matched_terms": [
+        "brand_byd"
       ]
     },
     {
