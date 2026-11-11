@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-11T18:45:36.122475+00:00",
+  "generated_at": "2026-11-11T19:45:39.530945+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,7 +54,7 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 2,
+    "matched_current": 1,
     "retained_signals": 30
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
@@ -67,7 +67,7 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34451916",
       "rank": 2,
       "first_seen": "2026-11-11T06:45:39.846282+00:00",
-      "last_seen": "2026-11-11T18:45:36.122475+00:00",
+      "last_seen": "2026-11-11T19:45:39.530945+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
