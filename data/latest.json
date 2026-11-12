@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-12T20:15:40.336250+00:00",
+  "generated_at": "2026-11-12T21:15:42.566481+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "知乎",
       "title": "荷兰法院已驳回捷豹路虎突击调取比亚迪研发资料的申请，还有哪些信息值得关注？这一裁定意味着什么？",
       "url": "https://www.zhihu.com/question/2104195756106019708",
-      "rank": 2,
+      "rank": 1,
       "first_seen": "2026-11-12T13:15:37.969624+00:00",
-      "last_seen": "2026-11-12T20:15:40.336250+00:00",
+      "last_seen": "2026-11-12T21:15:42.566481+00:00",
       "matched_terms": [
         "brand_byd"
       ]
