@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-12T09:15:36.553240+00:00",
+  "generated_at": "2026-11-12T10:15:35.728566+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "今日头条",
       "title": "方程豹钛7知识产权纠纷新进展",
       "url": "https://www.toutiao.com/trending/7706673051202666538/",
-      "rank": 20,
+      "rank": 15,
       "first_seen": "2026-11-12T09:15:36.553240+00:00",
-      "last_seen": "2026-11-12T09:15:36.553240+00:00",
+      "last_seen": "2026-11-12T10:15:35.728566+00:00",
       "matched_terms": [
         "brand_fangchengbao"
       ]
