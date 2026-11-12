@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-12T03:15:40.247200+00:00",
+  "generated_at": "2026-11-12T04:15:35.153026+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,8 +54,8 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 3,
-    "retained_signals": 32
+    "matched_current": 4,
+    "retained_signals": 33
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -67,7 +67,7 @@
       "url": "https://www.thepaper.cn/newsDetail_forward_34451916",
       "rank": 3,
       "first_seen": "2026-11-11T06:45:39.846282+00:00",
-      "last_seen": "2026-11-12T03:15:40.247200+00:00",
+      "last_seen": "2026-11-12T04:15:35.153026+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
@@ -79,12 +79,25 @@
       "platform_name": "知乎",
       "title": "比亚迪大唐轮毂错装，生产环节为何会出现这样的问题？官方称不影响安全，这样的处理方案能解决车主顾虑吗？",
       "url": "https://www.zhihu.com/question/2103845080293274006",
-      "rank": 5,
+      "rank": 9,
       "first_seen": "2026-11-11T23:15:36.092366+00:00",
-      "last_seen": "2026-11-12T03:15:40.247200+00:00",
+      "last_seen": "2026-11-12T04:15:35.153026+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
+      ]
+    },
+    {
+      "id": "1e16be5eb5b3c00d540e583e614902d1cc2adfc6dd553f28bde1d579cf5758a2",
+      "platform": "weibo",
+      "platform_name": "微博",
+      "title": "有比亚迪车主开3个月才发现轮辋装反",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BD%A6%E4%B8%BB%E5%BC%803%E4%B8%AA%E6%9C%88%E6%89%8D%E5%8F%91%E7%8E%B0%E8%BD%AE%E8%BE%8B%E8%A3%85%E5%8F%8D%23",
+      "rank": 20,
+      "first_seen": "2026-11-12T04:15:35.153026+00:00",
+      "last_seen": "2026-11-12T04:15:35.153026+00:00",
+      "matched_terms": [
+        "brand_byd"
       ]
     },
     {
@@ -93,9 +106,9 @@
       "platform_name": "今日头条",
       "title": "媒体评比亚迪大唐部分车辆轮辋装反",
       "url": "https://www.toutiao.com/trending/7706856015555281417/",
-      "rank": 7,
+      "rank": 25,
       "first_seen": "2026-11-12T00:15:39.878646+00:00",
-      "last_seen": "2026-11-12T03:15:40.247200+00:00",
+      "last_seen": "2026-11-12T04:15:35.153026+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
