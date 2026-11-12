@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-12T05:15:38.319799+00:00",
+  "generated_at": "2026-11-12T06:15:42.376083+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,23 +54,22 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 3,
-    "retained_signals": 33
+    "matched_current": 2,
+    "retained_signals": 34
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
     {
-      "id": "aa47f22dee3481fc0b95c5e5cfe4482d937b8a39db17c1cafb68a09e400e3288",
-      "platform": "thepaper",
-      "platform_name": "澎湃新闻",
-      "title": "比亚迪回应多位车主投诉大唐车辆前后轮毂装反",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34451916",
-      "rank": 3,
-      "first_seen": "2026-11-11T06:45:39.846282+00:00",
-      "last_seen": "2026-11-12T05:15:38.319799+00:00",
+      "id": "822bd3215908035be1bf0d26ea4fbe744b96515825118a6d68f2c19be3a794c6",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪高端化为什么没走大众丰田老路",
+      "url": "https://www.toutiao.com/trending/7707115422138502719/",
+      "rank": 19,
+      "first_seen": "2026-11-12T06:15:42.376083+00:00",
+      "last_seen": "2026-11-12T06:15:42.376083+00:00",
       "matched_terms": [
-        "brand_byd",
-        "model_tang"
+        "brand_byd"
       ]
     },
     {
@@ -79,8 +78,22 @@
       "platform_name": "知乎",
       "title": "比亚迪大唐轮毂错装，生产环节为何会出现这样的问题？官方称不影响安全，这样的处理方案能解决车主顾虑吗？",
       "url": "https://www.zhihu.com/question/2103845080293274006",
-      "rank": 14,
+      "rank": 20,
       "first_seen": "2026-11-11T23:15:36.092366+00:00",
+      "last_seen": "2026-11-12T06:15:42.376083+00:00",
+      "matched_terms": [
+        "brand_byd",
+        "model_tang"
+      ]
+    },
+    {
+      "id": "aa47f22dee3481fc0b95c5e5cfe4482d937b8a39db17c1cafb68a09e400e3288",
+      "platform": "thepaper",
+      "platform_name": "澎湃新闻",
+      "title": "比亚迪回应多位车主投诉大唐车辆前后轮毂装反",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34451916",
+      "rank": 3,
+      "first_seen": "2026-11-11T06:45:39.846282+00:00",
       "last_seen": "2026-11-12T05:15:38.319799+00:00",
       "matched_terms": [
         "brand_byd",
