@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-13T04:15:37.352270+00:00",
+  "generated_at": "2026-11-13T05:15:36.393998+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 37
+    "matched_current": 1,
+    "retained_signals": 38
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "8d403e093bdfefaad456f20740dd409e227dc40e5a83e3523dfbe355352f6867",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪悬赏最高500万征集抹黑线索",
+      "url": "https://www.toutiao.com/trending/7707473435429061171/",
+      "rank": 7,
+      "first_seen": "2026-11-13T05:15:36.393998+00:00",
+      "last_seen": "2026-11-13T05:15:36.393998+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "b752299b37a6eddfeb306c87c461d105af3a4e1ed0b2d42377ceb2fc22a3a6ee",
       "platform": "zhihu",
