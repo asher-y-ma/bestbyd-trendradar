@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-13T05:15:36.393998+00:00",
+  "generated_at": "2026-11-13T06:15:35.190350+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "今日头条",
       "title": "比亚迪悬赏最高500万征集抹黑线索",
       "url": "https://www.toutiao.com/trending/7707473435429061171/",
-      "rank": 7,
+      "rank": 8,
       "first_seen": "2026-11-13T05:15:36.393998+00:00",
-      "last_seen": "2026-11-13T05:15:36.393998+00:00",
+      "last_seen": "2026-11-13T06:15:35.190350+00:00",
       "matched_terms": [
         "brand_byd"
       ]
