@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-13T12:15:39.641506+00:00",
+  "generated_at": "2026-11-13T13:15:38.212695+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "百度热搜",
       "title": "比亚迪悬赏黑公关：最高奖励500万",
       "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%82%AC%E8%B5%8F%E9%BB%91%E5%85%AC%E5%85%B3%EF%BC%9A%E6%9C%80%E9%AB%98%E5%A5%96%E5%8A%B1500%E4%B8%87",
-      "rank": 5,
+      "rank": 20,
       "first_seen": "2026-11-13T11:15:42.505490+00:00",
-      "last_seen": "2026-11-13T12:15:39.641506+00:00",
+      "last_seen": "2026-11-13T13:15:38.212695+00:00",
       "matched_terms": [
         "brand_byd"
       ]
