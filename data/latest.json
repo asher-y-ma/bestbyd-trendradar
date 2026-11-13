@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-12T23:15:41.217816+00:00",
+  "generated_at": "2026-11-13T00:15:37.959742+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,8 +54,8 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 1,
-    "retained_signals": 36
+    "matched_current": 2,
+    "retained_signals": 37
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -65,11 +65,24 @@
       "platform_name": "知乎",
       "title": "荷兰法院已驳回捷豹路虎突击调取比亚迪研发资料的申请，还有哪些信息值得关注？这一裁定意味着什么？",
       "url": "https://www.zhihu.com/question/2104195756106019708",
-      "rank": 2,
+      "rank": 1,
       "first_seen": "2026-11-12T13:15:37.969624+00:00",
-      "last_seen": "2026-11-12T23:15:41.217816+00:00",
+      "last_seen": "2026-11-13T00:15:37.959742+00:00",
       "matched_terms": [
         "brand_byd"
+      ]
+    },
+    {
+      "id": "398894cabde1e134bda65f7247f35fcdbf170349dfeedc0f7fcffd54d31c00c8",
+      "platform": "weibo",
+      "platform_name": "微博",
+      "title": "腾势N8这价格大家觉得行吗",
+      "url": "https://s.weibo.com/weibo?q=%E8%85%BE%E5%8A%BFN8%E8%BF%99%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%AE%B6%E8%A7%89%E5%BE%97%E8%A1%8C%E5%90%97",
+      "rank": 30,
+      "first_seen": "2026-11-13T00:15:37.959742+00:00",
+      "last_seen": "2026-11-13T00:15:37.959742+00:00",
+      "matched_terms": [
+        "brand_denza"
       ]
     },
     {
