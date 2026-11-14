@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-14T10:15:37.070490+00:00",
+  "generated_at": "2026-11-14T11:15:39.726779+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 38
+    "matched_current": 1,
+    "retained_signals": 39
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "ea6a098240eeaa269bc3ff95fd20ef1f6997d4396aa2856278d1e7eee0df0764",
+      "platform": "weibo",
+      "platform_name": "微博",
+      "title": "比亚迪海洋携手LPL决战巅峰",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B5%B7%E6%B4%8B%E6%90%BA%E6%89%8BLPL%E5%86%B3%E6%88%98%E5%B7%85%E5%B3%B0%23",
+      "rank": 19,
+      "first_seen": "2026-11-14T11:15:39.726779+00:00",
+      "last_seen": "2026-11-14T11:15:39.726779+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "900fef92bc097db0645d83226ce2e24d2a9c6bbbf45c36121be7baf9c6e02677",
       "platform": "baidu",
