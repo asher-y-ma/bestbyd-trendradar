@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-15T12:15:38.229254+00:00",
+  "generated_at": "2026-11-15T13:15:33.996386+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -67,7 +67,7 @@
       "url": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E6%AD%8C+%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA",
       "rank": 21,
       "first_seen": "2026-11-15T02:15:40.143175+00:00",
-      "last_seen": "2026-11-15T12:15:38.229254+00:00",
+      "last_seen": "2026-11-15T13:15:33.996386+00:00",
       "matched_terms": [
         "brand_yangwang"
       ]
@@ -78,9 +78,9 @@
       "platform_name": "百度热搜",
       "title": "“雷神”怎么开比亚迪",
       "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%9B%B7%E7%A5%9E%E2%80%9D%E6%80%8E%E4%B9%88%E5%BC%80%E6%AF%94%E4%BA%9A%E8%BF%AA",
-      "rank": 24,
+      "rank": 21,
       "first_seen": "2026-11-15T11:15:36.630678+00:00",
-      "last_seen": "2026-11-15T12:15:38.229254+00:00",
+      "last_seen": "2026-11-15T13:15:33.996386+00:00",
       "matched_terms": [
         "brand_byd"
       ]
