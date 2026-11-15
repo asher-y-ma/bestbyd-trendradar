@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-15T09:15:41.199643+00:00",
+  "generated_at": "2026-11-15T10:15:37.810195+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 1,
-    "retained_signals": 40
+    "retained_signals": 38
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -65,9 +65,9 @@
       "platform_name": "bilibili 热搜",
       "title": "BLG夺冠赞歌 仰望星空",
       "url": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E6%AD%8C+%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA",
-      "rank": 3,
+      "rank": 5,
       "first_seen": "2026-11-15T02:15:40.143175+00:00",
-      "last_seen": "2026-11-15T09:15:41.199643+00:00",
+      "last_seen": "2026-11-15T10:15:37.810195+00:00",
       "matched_terms": [
         "brand_yangwang"
       ]
@@ -565,33 +565,6 @@
       "last_seen": "2026-11-08T13:45:37.802271+00:00",
       "matched_terms": [
         "brand_byd"
-      ]
-    },
-    {
-      "id": "16fb2faa36ac630c9db8df0cef06520107bf436ffd4f08c1d8f10fbd7b4654f3",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "比亚迪腾势N8首批实车到店",
-      "url": "https://www.toutiao.com/trending/7704660428626427958/",
-      "rank": 9,
-      "first_seen": "2026-11-08T08:45:35.923974+00:00",
-      "last_seen": "2026-11-08T09:45:37.615926+00:00",
-      "matched_terms": [
-        "brand_byd",
-        "brand_denza"
-      ]
-    },
-    {
-      "id": "dfd3485641bb07c99e19c40c757ace8d782e4e928753c0d0888355bc709f90a8",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "方程豹钛9车型月底上市",
-      "url": "https://www.toutiao.com/trending/7704879172175134730/",
-      "rank": 28,
-      "first_seen": "2026-11-08T06:46:36.871347+00:00",
-      "last_seen": "2026-11-08T09:45:37.615926+00:00",
-      "matched_terms": [
-        "brand_fangchengbao"
       ]
     }
   ]
