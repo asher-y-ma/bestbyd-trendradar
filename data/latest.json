@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-15T18:15:35.578990+00:00",
+  "generated_at": "2026-11-15T19:15:37.561504+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 0,
-    "retained_signals": 38
+    "retained_signals": 37
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -552,19 +552,6 @@
       "matched_terms": [
         "brand_byd",
         "brand_yangwang"
-      ]
-    },
-    {
-      "id": "cf911f941c6eadd09f2c32e0d23758ceee260dc4c679a89d0d0b29425fdf7d82",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "比亚迪李云飞：今年销量预计略有增长",
-      "url": "https://www.toutiao.com/trending/7705803303665418283/",
-      "rank": 26,
-      "first_seen": "2026-11-08T16:45:35.403734+00:00",
-      "last_seen": "2026-11-08T18:45:35.855684+00:00",
-      "matched_terms": [
-        "brand_byd"
       ]
     }
   ]
