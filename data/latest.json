@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-16T16:15:40.810419+00:00",
+  "generated_at": "2026-11-16T17:16:07.574656+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,8 +54,8 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 1,
-    "retained_signals": 33
+    "matched_current": 0,
+    "retained_signals": 32
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -484,20 +484,6 @@
       "last_seen": "2026-11-09T19:45:38.463106+00:00",
       "matched_terms": [
         "brand_fangchengbao"
-      ]
-    },
-    {
-      "id": "04866a4d98e08dcdff5c73fd0f9685681142624c7585de29b5ee46a053f78733",
-      "platform": "weibo",
-      "platform_name": "微博",
-      "title": "比亚迪大唐前后轮毂装反",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%A4%A7%E5%94%90%E5%89%8D%E5%90%8E%E8%BD%AE%E6%AF%82%E8%A3%85%E5%8F%8D%23",
-      "rank": 8,
-      "first_seen": "2026-11-09T13:45:39.730369+00:00",
-      "last_seen": "2026-11-09T16:45:39.048793+00:00",
-      "matched_terms": [
-        "brand_byd",
-        "model_tang"
       ]
     }
   ]
