@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-16T13:15:34.527923+00:00",
+  "generated_at": "2026-11-16T14:15:37.843779+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
+    "matched_current": 1,
     "retained_signals": 33
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "ac5b124052c4bcfec871109b1031ece56ad010858ae47c3bd4050c8275360fcd",
+      "platform": "bilibili-hot-search",
+      "platform_name": "bilibili 热搜",
+      "title": "BLG夺冠赞歌 仰望星空",
+      "url": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E6%AD%8C+%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA",
+      "rank": 28,
+      "first_seen": "2026-11-15T02:15:40.143175+00:00",
+      "last_seen": "2026-11-16T14:15:37.843779+00:00",
+      "matched_terms": [
+        "brand_yangwang"
+      ]
+    },
     {
       "id": "d67b6aa3e9893ddc2d70b4993a41e16358473d741cf76005ffe45e4a1a16ac98",
       "platform": "toutiao",
@@ -85,19 +98,6 @@
       "matched_terms": [
         "brand_byd",
         "brand_denza"
-      ]
-    },
-    {
-      "id": "ac5b124052c4bcfec871109b1031ece56ad010858ae47c3bd4050c8275360fcd",
-      "platform": "bilibili-hot-search",
-      "platform_name": "bilibili 热搜",
-      "title": "BLG夺冠赞歌 仰望星空",
-      "url": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E6%AD%8C+%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA",
-      "rank": 30,
-      "first_seen": "2026-11-15T02:15:40.143175+00:00",
-      "last_seen": "2026-11-16T04:15:45.743885+00:00",
-      "matched_terms": [
-        "brand_yangwang"
       ]
     },
     {
