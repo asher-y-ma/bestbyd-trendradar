@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-16T19:15:48.725443+00:00",
+  "generated_at": "2026-11-16T20:15:40.081089+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 1,
-    "retained_signals": 32
+    "retained_signals": 31
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -67,7 +67,7 @@
       "url": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9E%E6%AD%8C+%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA",
       "rank": 29,
       "first_seen": "2026-11-15T02:15:40.143175+00:00",
-      "last_seen": "2026-11-16T19:15:48.725443+00:00",
+      "last_seen": "2026-11-16T20:15:40.081089+00:00",
       "matched_terms": [
         "brand_yangwang"
       ]
@@ -471,19 +471,6 @@
       "last_seen": "2026-11-10T01:45:37.814771+00:00",
       "matched_terms": [
         "brand_byd"
-      ]
-    },
-    {
-      "id": "1acf42270cfd7813abe78eb3eed392d3b52678bd5cff0abb9e36bae84be8c574",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "方程豹钛9顶配版官宣",
-      "url": "https://www.toutiao.com/trending/7704519294998302249/",
-      "rank": 28,
-      "first_seen": "2026-11-09T19:45:38.463106+00:00",
-      "last_seen": "2026-11-09T19:45:38.463106+00:00",
-      "matched_terms": [
-        "brand_fangchengbao"
       ]
     }
   ]
