@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-16T07:15:35.700972+00:00",
+  "generated_at": "2026-11-16T08:15:39.538019+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 1,
-    "retained_signals": 36
+    "retained_signals": 35
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -65,9 +65,9 @@
       "platform_name": "今日头条",
       "title": "比亚迪王传福亲自交付首批腾势N8",
       "url": "https://www.toutiao.com/trending/7708375536049307699/",
-      "rank": 4,
+      "rank": 20,
       "first_seen": "2026-11-16T06:15:47.776378+00:00",
-      "last_seen": "2026-11-16T07:15:35.700972+00:00",
+      "last_seen": "2026-11-16T08:15:39.538019+00:00",
       "matched_terms": [
         "brand_byd",
         "brand_denza"
@@ -524,20 +524,6 @@
       "matched_terms": [
         "brand_byd",
         "model_tang"
-      ]
-    },
-    {
-      "id": "9cf0c8a96035efb1f8c1e567dfdd324024d9d9576d0ae599c7f21347dece34a2",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "比亚迪仰望鼎曜旗舰轿车现身官网",
-      "url": "https://www.toutiao.com/trending/7705187510128885814/",
-      "rank": 21,
-      "first_seen": "2026-11-09T07:45:41.920157+00:00",
-      "last_seen": "2026-11-09T07:45:41.920157+00:00",
-      "matched_terms": [
-        "brand_byd",
-        "brand_yangwang"
       ]
     }
   ]
