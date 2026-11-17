@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-17T15:15:39.300893+00:00",
+  "generated_at": "2026-11-17T16:15:43.265028+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "知乎",
       "title": "中汽协将对比亚迪、小米等 17 家重点车企开展供应商账款支付情况调研评估，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2105956358176469828",
-      "rank": 1,
+      "rank": 3,
       "first_seen": "2026-11-17T04:15:49.297154+00:00",
-      "last_seen": "2026-11-17T15:15:39.300893+00:00",
+      "last_seen": "2026-11-17T16:15:43.265028+00:00",
       "matched_terms": [
         "brand_byd"
       ]
@@ -78,9 +78,9 @@
       "platform_name": "今日头条",
       "title": "王传福试驾方程豹钛9竖大拇指",
       "url": "https://www.toutiao.com/trending/7709080222121951795/",
-      "rank": 12,
+      "rank": 15,
       "first_seen": "2026-11-17T14:15:40.310352+00:00",
-      "last_seen": "2026-11-17T15:15:39.300893+00:00",
+      "last_seen": "2026-11-17T16:15:43.265028+00:00",
       "matched_terms": [
         "brand_fangchengbao"
       ]
