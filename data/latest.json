@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-17T22:15:39.385110+00:00",
+  "generated_at": "2026-11-17T23:15:39.477629+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "今日头条",
       "title": "王传福试驾方程豹钛9竖大拇指",
       "url": "https://www.toutiao.com/trending/7709080222121951795/",
-      "rank": 27,
+      "rank": 23,
       "first_seen": "2026-11-17T14:15:40.310352+00:00",
-      "last_seen": "2026-11-17T22:15:39.385110+00:00",
+      "last_seen": "2026-11-17T23:15:39.477629+00:00",
       "matched_terms": [
         "brand_fangchengbao"
       ]
