@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-17T07:15:39.541067+00:00",
+  "generated_at": "2026-11-17T08:15:36.743107+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,7 +54,7 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 2,
+    "matched_current": 1,
     "retained_signals": 32
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
@@ -67,7 +67,7 @@
       "url": "https://www.zhihu.com/question/2105956358176469828",
       "rank": 4,
       "first_seen": "2026-11-17T04:15:49.297154+00:00",
-      "last_seen": "2026-11-17T07:15:39.541067+00:00",
+      "last_seen": "2026-11-17T08:15:36.743107+00:00",
       "matched_terms": [
         "brand_byd"
       ]
