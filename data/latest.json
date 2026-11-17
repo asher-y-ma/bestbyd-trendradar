@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-17T17:15:41.449274+00:00",
+  "generated_at": "2026-11-17T18:15:35.694892+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 2,
+    "matched_current": 1,
     "retained_signals": 30
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "8cfb8d1d2127ce5bca8d08f607354015c35d2f9f9dc3c9d581be66986728ef6d",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "王传福试驾方程豹钛9竖大拇指",
+      "url": "https://www.toutiao.com/trending/7709080222121951795/",
+      "rank": 15,
+      "first_seen": "2026-11-17T14:15:40.310352+00:00",
+      "last_seen": "2026-11-17T18:15:35.694892+00:00",
+      "matched_terms": [
+        "brand_fangchengbao"
+      ]
+    },
     {
       "id": "fff5bf37ea5bbdd99518b2b4294efe3a744f22c7073753543bd293dc2d16d75d",
       "platform": "zhihu",
@@ -70,19 +83,6 @@
       "last_seen": "2026-11-17T17:15:41.449274+00:00",
       "matched_terms": [
         "brand_byd"
-      ]
-    },
-    {
-      "id": "8cfb8d1d2127ce5bca8d08f607354015c35d2f9f9dc3c9d581be66986728ef6d",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "王传福试驾方程豹钛9竖大拇指",
-      "url": "https://www.toutiao.com/trending/7709080222121951795/",
-      "rank": 14,
-      "first_seen": "2026-11-17T14:15:40.310352+00:00",
-      "last_seen": "2026-11-17T17:15:41.449274+00:00",
-      "matched_terms": [
-        "brand_fangchengbao"
       ]
     },
     {
