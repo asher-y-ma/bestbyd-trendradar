@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-17T21:15:40.912070+00:00",
+  "generated_at": "2026-11-17T22:15:39.385110+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,7 +54,7 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
+    "matched_current": 1,
     "retained_signals": 30
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
@@ -65,9 +65,9 @@
       "platform_name": "今日头条",
       "title": "王传福试驾方程豹钛9竖大拇指",
       "url": "https://www.toutiao.com/trending/7709080222121951795/",
-      "rank": 26,
+      "rank": 27,
       "first_seen": "2026-11-17T14:15:40.310352+00:00",
-      "last_seen": "2026-11-17T20:15:46.562904+00:00",
+      "last_seen": "2026-11-17T22:15:39.385110+00:00",
       "matched_terms": [
         "brand_fangchengbao"
       ]
