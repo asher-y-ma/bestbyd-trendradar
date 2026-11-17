@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-17T05:15:43.194707+00:00",
+  "generated_at": "2026-11-17T06:15:45.650791+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,8 +54,8 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 1,
-    "retained_signals": 31
+    "matched_current": 2,
+    "retained_signals": 32
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -65,9 +65,22 @@
       "platform_name": "知乎",
       "title": "中汽协将对比亚迪、小米等 17 家重点车企开展供应商账款支付情况调研评估，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2105956358176469828",
-      "rank": 12,
+      "rank": 6,
       "first_seen": "2026-11-17T04:15:49.297154+00:00",
-      "last_seen": "2026-11-17T05:15:43.194707+00:00",
+      "last_seen": "2026-11-17T06:15:45.650791+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
+    {
+      "id": "be021207475f0b2a50c5b1bb42d8de03bb52e2fb7cfe4e535b07c842f2c45d23",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "大空头扎堆买京东比亚迪背后",
+      "url": "https://www.toutiao.com/trending/7709010090786819626/",
+      "rank": 18,
+      "first_seen": "2026-11-17T06:15:45.650791+00:00",
+      "last_seen": "2026-11-17T06:15:45.650791+00:00",
       "matched_terms": [
         "brand_byd"
       ]
