@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-18T00:15:39.865883+00:00",
+  "generated_at": "2026-11-18T01:15:35.809242+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 0,
-    "retained_signals": 29
+    "retained_signals": 28
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -431,19 +431,6 @@
       "matched_terms": [
         "brand_byd",
         "model_tang"
-      ]
-    },
-    {
-      "id": "34908b632b53b42d980f9dab5e66dd6817b2e953d3ab76d1b8e389aa9873f883",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "路虎为何要在荷兰起诉比亚迪",
-      "url": "https://www.toutiao.com/trending/7706546993849437715/",
-      "rank": 18,
-      "first_seen": "2026-11-10T16:45:40.771407+00:00",
-      "last_seen": "2026-11-11T00:45:39.948859+00:00",
-      "matched_terms": [
-        "brand_byd"
       ]
     }
   ]
