@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-18T17:15:41.062161+00:00",
+  "generated_at": "2026-11-18T18:17:06.184519+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -10,13 +10,8 @@
     "license": "GPL-3.0"
   },
   "collection": {
-    "status": "ok",
+    "status": "degraded",
     "sources": [
-      {
-        "platform_id": "toutiao",
-        "name": "今日头条",
-        "status": "success"
-      },
       {
         "platform_id": "baidu",
         "name": "百度热搜",
@@ -51,9 +46,14 @@
         "platform_id": "zhihu",
         "name": "知乎",
         "status": "success"
+      },
+      {
+        "platform_id": "toutiao",
+        "name": "今日头条",
+        "status": "failed"
       }
     ],
-    "total_items": 203,
+    "total_items": 173,
     "matched_current": 0,
     "retained_signals": 23
   },
