@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-18T09:15:55.920226+00:00",
+  "generated_at": "2026-11-18T10:15:39.459603+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 0,
-    "retained_signals": 25
+    "retained_signals": 24
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -377,19 +377,6 @@
       "matched_terms": [
         "brand_byd",
         "model_tang"
-      ]
-    },
-    {
-      "id": "f2c7b5cbdfae6d3392f6f2c33e1033d44471f483012684c8dae3219f53e2916c",
-      "platform": "douyin",
-      "platform_name": "抖音",
-      "title": "比亚迪就轮辋错装发布致歉声明",
-      "url": "https://www.douyin.com/hot/2740835",
-      "rank": 29,
-      "first_seen": "2026-11-11T09:45:42.079371+00:00",
-      "last_seen": "2026-11-11T09:45:42.079371+00:00",
-      "matched_terms": [
-        "brand_byd"
       ]
     }
   ]
