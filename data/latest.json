@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-17T23:15:39.477629+00:00",
+  "generated_at": "2026-11-18T00:15:39.865883+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,8 +54,8 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 1,
-    "retained_signals": 30
+    "matched_current": 0,
+    "retained_signals": 29
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -442,19 +442,6 @@
       "rank": 18,
       "first_seen": "2026-11-10T16:45:40.771407+00:00",
       "last_seen": "2026-11-11T00:45:39.948859+00:00",
-      "matched_terms": [
-        "brand_byd"
-      ]
-    },
-    {
-      "id": "9626f61f2dfb451d12d05338fe5528749098061435c14923270b4763d26cf945",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "比亚迪欧洲“撞墙”",
-      "url": "https://www.toutiao.com/trending/7706042675610436123/",
-      "rank": 29,
-      "first_seen": "2026-11-10T13:45:37.610429+00:00",
-      "last_seen": "2026-11-10T23:45:39.829079+00:00",
       "matched_terms": [
         "brand_byd"
       ]
