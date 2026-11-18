@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-18T08:15:38.982354+00:00",
+  "generated_at": "2026-11-18T09:15:55.920226+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 0,
-    "retained_signals": 26
+    "retained_signals": 25
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -388,19 +388,6 @@
       "rank": 29,
       "first_seen": "2026-11-11T09:45:42.079371+00:00",
       "last_seen": "2026-11-11T09:45:42.079371+00:00",
-      "matched_terms": [
-        "brand_byd"
-      ]
-    },
-    {
-      "id": "6e05eb7619c7a1fab509b0de637536e872c082eb348a6ccee8a030838f97ffa4",
-      "platform": "weibo",
-      "platform_name": "微博",
-      "title": "比亚迪汽车发布声明",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%23",
-      "rank": 30,
-      "first_seen": "2026-11-11T06:45:39.846282+00:00",
-      "last_seen": "2026-11-11T08:45:38.723558+00:00",
       "matched_terms": [
         "brand_byd"
       ]
