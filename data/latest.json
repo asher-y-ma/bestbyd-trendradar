@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-19T15:15:38.700824+00:00",
+  "generated_at": "2026-11-19T16:15:54.846758+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,8 +54,8 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 3,
-    "retained_signals": 20
+    "matched_current": 4,
+    "retained_signals": 21
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -67,9 +67,22 @@
       "url": "https://www.toutiao.com/trending/7709870440894071347/",
       "rank": 6,
       "first_seen": "2026-11-19T15:15:38.700824+00:00",
-      "last_seen": "2026-11-19T15:15:38.700824+00:00",
+      "last_seen": "2026-11-19T16:15:54.846758+00:00",
       "matched_terms": [
         "brand_fangchengbao"
+      ]
+    },
+    {
+      "id": "a23b78b94d8f840d9105e97a058401975b9617f71abae89ce5e796f134918af6",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪发布折叠方向盘",
+      "url": "https://www.toutiao.com/trending/7709863053215629834/",
+      "rank": 10,
+      "first_seen": "2026-11-19T16:15:54.846758+00:00",
+      "last_seen": "2026-11-19T16:15:54.846758+00:00",
+      "matched_terms": [
+        "brand_byd"
       ]
     },
     {
@@ -78,9 +91,9 @@
       "platform_name": "今日头条",
       "title": "比亚迪发布DMS超级混动全能平台",
       "url": "https://www.toutiao.com/trending/7709586554267746842/",
-      "rank": 19,
+      "rank": 16,
       "first_seen": "2026-11-19T15:15:38.700824+00:00",
-      "last_seen": "2026-11-19T15:15:38.700824+00:00",
+      "last_seen": "2026-11-19T16:15:54.846758+00:00",
       "matched_terms": [
         "brand_byd"
       ]
@@ -91,9 +104,9 @@
       "platform_name": "百度热搜",
       "title": "比亚迪发布折叠方向盘",
       "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E6%8A%98%E5%8F%A0%E6%96%B9%E5%90%91%E7%9B%98",
-      "rank": 24,
+      "rank": 17,
       "first_seen": "2026-11-19T14:15:37.118322+00:00",
-      "last_seen": "2026-11-19T15:15:38.700824+00:00",
+      "last_seen": "2026-11-19T16:15:54.846758+00:00",
       "matched_terms": [
         "brand_byd"
       ]
