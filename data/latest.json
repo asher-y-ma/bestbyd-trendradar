@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-19T07:15:39.360338+00:00",
+  "generated_at": "2026-11-19T08:15:48.453708+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 2,
+    "matched_current": 1,
     "retained_signals": 18
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "c31fc710b55a4a5d3ca2f4c9ed0f6bc017070e9c6c9ad11d7e59059cd8e71775",
+      "platform": "zhihu",
+      "platform_name": "知乎",
+      "title": "如何看待比亚迪王传福称「我赢你输」不可能长期发展，中国企业在海外绝不是「抢饭碗」？",
+      "url": "https://www.zhihu.com/question/2106321090909951453",
+      "rank": 12,
+      "first_seen": "2026-11-19T07:15:39.360338+00:00",
+      "last_seen": "2026-11-19T08:15:48.453708+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "2bf8a7647282cc8d5af0f5c2dcbf998af31e0fe155f4377673b0aa2c256f7f40",
       "platform": "zhihu",
@@ -67,19 +80,6 @@
       "url": "https://www.zhihu.com/question/2106068791704511912",
       "rank": 13,
       "first_seen": "2026-11-19T01:15:36.568454+00:00",
-      "last_seen": "2026-11-19T07:15:39.360338+00:00",
-      "matched_terms": [
-        "brand_byd"
-      ]
-    },
-    {
-      "id": "c31fc710b55a4a5d3ca2f4c9ed0f6bc017070e9c6c9ad11d7e59059cd8e71775",
-      "platform": "zhihu",
-      "platform_name": "知乎",
-      "title": "如何看待比亚迪王传福称「我赢你输」不可能长期发展，中国企业在海外绝不是「抢饭碗」？",
-      "url": "https://www.zhihu.com/question/2106321090909951453",
-      "rank": 14,
-      "first_seen": "2026-11-19T07:15:39.360338+00:00",
       "last_seen": "2026-11-19T07:15:39.360338+00:00",
       "matched_terms": [
         "brand_byd"
