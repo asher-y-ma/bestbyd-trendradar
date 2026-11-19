@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-19T04:15:41.951169+00:00",
+  "generated_at": "2026-11-19T05:15:38.541005+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 1,
-    "retained_signals": 21
+    "retained_signals": 19
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -65,9 +65,9 @@
       "platform_name": "知乎",
       "title": "比亚迪 App 崩了，多位车主反映 App 无法连接车辆开门，故障原因可能是什么？造成的影响有多大？",
       "url": "https://www.zhihu.com/question/2106068791704511912",
-      "rank": 9,
+      "rank": 8,
       "first_seen": "2026-11-19T01:15:36.568454+00:00",
-      "last_seen": "2026-11-19T04:15:41.951169+00:00",
+      "last_seen": "2026-11-19T05:15:38.541005+00:00",
       "matched_terms": [
         "brand_byd"
       ]
@@ -307,33 +307,6 @@
       "matched_terms": [
         "brand_byd",
         "model_tang"
-      ]
-    },
-    {
-      "id": "aa47f22dee3481fc0b95c5e5cfe4482d937b8a39db17c1cafb68a09e400e3288",
-      "platform": "thepaper",
-      "platform_name": "澎湃新闻",
-      "title": "比亚迪回应多位车主投诉大唐车辆前后轮毂装反",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34451916",
-      "rank": 3,
-      "first_seen": "2026-11-11T06:45:39.846282+00:00",
-      "last_seen": "2026-11-12T05:15:38.319799+00:00",
-      "matched_terms": [
-        "brand_byd",
-        "model_tang"
-      ]
-    },
-    {
-      "id": "1e16be5eb5b3c00d540e583e614902d1cc2adfc6dd553f28bde1d579cf5758a2",
-      "platform": "weibo",
-      "platform_name": "微博",
-      "title": "有比亚迪车主开3个月才发现轮辋装反",
-      "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%BD%A6%E4%B8%BB%E5%BC%803%E4%B8%AA%E6%9C%88%E6%89%8D%E5%8F%91%E7%8E%B0%E8%BD%AE%E8%BE%8B%E8%A3%85%E5%8F%8D%23",
-      "rank": 16,
-      "first_seen": "2026-11-12T04:15:35.153026+00:00",
-      "last_seen": "2026-11-12T05:15:38.319799+00:00",
-      "matched_terms": [
-        "brand_byd"
       ]
     }
   ]
