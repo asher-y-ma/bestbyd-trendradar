@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-19T01:15:36.568454+00:00",
+  "generated_at": "2026-11-19T02:15:40.878579+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "知乎",
       "title": "比亚迪 App 崩了，多位车主反映 App 无法连接车辆开门，故障原因可能是什么？造成的影响有多大？",
       "url": "https://www.zhihu.com/question/2106068791704511912",
-      "rank": 19,
+      "rank": 13,
       "first_seen": "2026-11-19T01:15:36.568454+00:00",
-      "last_seen": "2026-11-19T01:15:36.568454+00:00",
+      "last_seen": "2026-11-19T02:15:40.878579+00:00",
       "matched_terms": [
         "brand_byd"
       ]
