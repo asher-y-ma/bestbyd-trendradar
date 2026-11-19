@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-19T22:15:38.908960+00:00",
+  "generated_at": "2026-11-19T23:15:37.115613+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "百度热搜",
       "title": "比亚迪发布折叠方向盘",
       "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E6%8A%98%E5%8F%A0%E6%96%B9%E5%90%91%E7%9B%98",
-      "rank": 14,
+      "rank": 15,
       "first_seen": "2026-11-19T14:15:37.118322+00:00",
-      "last_seen": "2026-11-19T22:15:38.908960+00:00",
+      "last_seen": "2026-11-19T23:15:37.115613+00:00",
       "matched_terms": [
         "brand_byd"
       ]
