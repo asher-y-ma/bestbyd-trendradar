@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-19T06:15:37.120553+00:00",
+  "generated_at": "2026-11-19T07:15:39.360338+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,8 +54,8 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 1,
-    "retained_signals": 19
+    "matched_current": 2,
+    "retained_signals": 18
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -65,9 +65,22 @@
       "platform_name": "知乎",
       "title": "比亚迪 App 崩了，多位车主反映 App 无法连接车辆开门，故障原因可能是什么？造成的影响有多大？",
       "url": "https://www.zhihu.com/question/2106068791704511912",
-      "rank": 8,
+      "rank": 13,
       "first_seen": "2026-11-19T01:15:36.568454+00:00",
-      "last_seen": "2026-11-19T06:15:37.120553+00:00",
+      "last_seen": "2026-11-19T07:15:39.360338+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
+    {
+      "id": "c31fc710b55a4a5d3ca2f4c9ed0f6bc017070e9c6c9ad11d7e59059cd8e71775",
+      "platform": "zhihu",
+      "platform_name": "知乎",
+      "title": "如何看待比亚迪王传福称「我赢你输」不可能长期发展，中国企业在海外绝不是「抢饭碗」？",
+      "url": "https://www.zhihu.com/question/2106321090909951453",
+      "rank": 14,
+      "first_seen": "2026-11-19T07:15:39.360338+00:00",
+      "last_seen": "2026-11-19T07:15:39.360338+00:00",
       "matched_terms": [
         "brand_byd"
       ]
@@ -280,33 +293,6 @@
       "last_seen": "2026-11-12T11:15:37.716142+00:00",
       "matched_terms": [
         "brand_fangchengbao"
-      ]
-    },
-    {
-      "id": "822bd3215908035be1bf0d26ea4fbe744b96515825118a6d68f2c19be3a794c6",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "比亚迪高端化为什么没走大众丰田老路",
-      "url": "https://www.toutiao.com/trending/7707115422138502719/",
-      "rank": 19,
-      "first_seen": "2026-11-12T06:15:42.376083+00:00",
-      "last_seen": "2026-11-12T06:15:42.376083+00:00",
-      "matched_terms": [
-        "brand_byd"
-      ]
-    },
-    {
-      "id": "88c9c8582b8e465ef764402215ff9f624fbad1b0411b9e6509a7806aa403ab56",
-      "platform": "zhihu",
-      "platform_name": "知乎",
-      "title": "比亚迪大唐轮毂错装，生产环节为何会出现这样的问题？官方称不影响安全，这样的处理方案能解决车主顾虑吗？",
-      "url": "https://www.zhihu.com/question/2103845080293274006",
-      "rank": 20,
-      "first_seen": "2026-11-11T23:15:36.092366+00:00",
-      "last_seen": "2026-11-12T06:15:42.376083+00:00",
-      "matched_terms": [
-        "brand_byd",
-        "model_tang"
       ]
     }
   ]
