@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-20T07:15:39.316140+00:00",
+  "generated_at": "2026-11-20T08:15:39.167140+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,8 +54,8 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 1,
-    "retained_signals": 21
+    "matched_current": 0,
+    "retained_signals": 20
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -317,19 +317,6 @@
       "rank": 17,
       "first_seen": "2026-11-13T05:15:36.393998+00:00",
       "last_seen": "2026-11-13T08:15:39.803070+00:00",
-      "matched_terms": [
-        "brand_byd"
-      ]
-    },
-    {
-      "id": "836963eaa745170e607163bd692e6922037a288fb011ddfa4c13bca308822130",
-      "platform": "baidu",
-      "platform_name": "百度热搜",
-      "title": "荷兰法院驳回路虎取证比亚迪申请",
-      "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E%E8%B7%AF%E8%99%8E%E5%8F%96%E8%AF%81%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%94%B3%E8%AF%B7",
-      "rank": 7,
-      "first_seen": "2026-11-13T07:15:40.310199+00:00",
-      "last_seen": "2026-11-13T07:15:40.310199+00:00",
       "matched_terms": [
         "brand_byd"
       ]
