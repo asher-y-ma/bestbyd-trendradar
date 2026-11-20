@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-19T23:15:37.115613+00:00",
+  "generated_at": "2026-11-20T00:15:42.143129+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,7 +54,7 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 1,
+    "matched_current": 2,
     "retained_signals": 21
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
@@ -65,11 +65,24 @@
       "platform_name": "百度热搜",
       "title": "比亚迪发布折叠方向盘",
       "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E6%8A%98%E5%8F%A0%E6%96%B9%E5%90%91%E7%9B%98",
-      "rank": 15,
+      "rank": 6,
       "first_seen": "2026-11-19T14:15:37.118322+00:00",
-      "last_seen": "2026-11-19T23:15:37.115613+00:00",
+      "last_seen": "2026-11-20T00:15:42.143129+00:00",
       "matched_terms": [
         "brand_byd"
+      ]
+    },
+    {
+      "id": "84d47dad02299c0e1cc69b2166e7939d143187befd7242f1ed09aaf2e87193bd",
+      "platform": "zhihu",
+      "platform_name": "知乎",
+      "title": "如何评价 27.99 万起售的方程豹钛 9，方盒子大六座 SUV 可以是家庭的唯一用车吗？",
+      "url": "https://www.zhihu.com/question/2106857547277788874",
+      "rank": 18,
+      "first_seen": "2026-11-20T00:15:42.143129+00:00",
+      "last_seen": "2026-11-20T00:15:42.143129+00:00",
+      "matched_terms": [
+        "brand_fangchengbao"
       ]
     },
     {
@@ -319,19 +332,6 @@
       "last_seen": "2026-11-13T03:15:38.389202+00:00",
       "matched_terms": [
         "brand_byd"
-      ]
-    },
-    {
-      "id": "398894cabde1e134bda65f7247f35fcdbf170349dfeedc0f7fcffd54d31c00c8",
-      "platform": "weibo",
-      "platform_name": "微博",
-      "title": "腾势N8这价格大家觉得行吗",
-      "url": "https://s.weibo.com/weibo?q=%E8%85%BE%E5%8A%BFN8%E8%BF%99%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%AE%B6%E8%A7%89%E5%BE%97%E8%A1%8C%E5%90%97",
-      "rank": 30,
-      "first_seen": "2026-11-13T00:15:37.959742+00:00",
-      "last_seen": "2026-11-13T00:15:37.959742+00:00",
-      "matched_terms": [
-        "brand_denza"
       ]
     }
   ]
