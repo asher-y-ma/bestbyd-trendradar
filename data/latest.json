@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-20T16:15:36.243515+00:00",
+  "generated_at": "2026-11-20T17:15:39.266329+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "今日头条",
       "title": "方程豹折叠方向盘引质疑",
       "url": "https://www.toutiao.com/trending/7710029506241954331/",
-      "rank": 7,
+      "rank": 6,
       "first_seen": "2026-11-20T15:15:40.600483+00:00",
-      "last_seen": "2026-11-20T16:15:36.243515+00:00",
+      "last_seen": "2026-11-20T17:15:39.266329+00:00",
       "matched_terms": [
         "brand_fangchengbao"
       ]
