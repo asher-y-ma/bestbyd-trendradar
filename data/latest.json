@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-20T14:15:37.645499+00:00",
+  "generated_at": "2026-11-20T15:15:40.600483+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 19
+    "matched_current": 1,
+    "retained_signals": 20
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "12dbb728ec7c7108d9004713fac387ff5285bffc7fffcd521a6620e61ac4e5e8",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "方程豹折叠方向盘引质疑",
+      "url": "https://www.toutiao.com/trending/7710029506241954331/",
+      "rank": 7,
+      "first_seen": "2026-11-20T15:15:40.600483+00:00",
+      "last_seen": "2026-11-20T15:15:40.600483+00:00",
+      "matched_terms": [
+        "brand_fangchengbao"
+      ]
+    },
     {
       "id": "263ceca117a16247b1e2ef55510a1ae42a97cf77ef9f74ade372678531eb72dd",
       "platform": "toutiao",
