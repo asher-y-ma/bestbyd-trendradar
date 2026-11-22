@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-22T02:15:37.700620+00:00",
+  "generated_at": "2026-11-22T03:15:40.940127+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -67,7 +67,7 @@
       "url": "https://www.zhihu.com/question/2107417541236805904",
       "rank": 4,
       "first_seen": "2026-11-22T00:15:45.229626+00:00",
-      "last_seen": "2026-11-22T02:15:37.700620+00:00",
+      "last_seen": "2026-11-22T03:15:40.940127+00:00",
       "matched_terms": [
         "brand_byd"
       ]
