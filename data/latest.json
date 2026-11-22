@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-22T03:15:40.940127+00:00",
+  "generated_at": "2026-11-22T04:15:37.325537+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,8 +54,8 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 1,
-    "retained_signals": 20
+    "matched_current": 2,
+    "retained_signals": 21
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -65,11 +65,24 @@
       "platform_name": "知乎",
       "title": "荷兰法院裁定比亚迪 Ti7 抄袭路虎卫士，颁布销售禁令，对此怎么看？",
       "url": "https://www.zhihu.com/question/2107417541236805904",
-      "rank": 4,
+      "rank": 2,
       "first_seen": "2026-11-22T00:15:45.229626+00:00",
-      "last_seen": "2026-11-22T03:15:40.940127+00:00",
+      "last_seen": "2026-11-22T04:15:37.325537+00:00",
       "matched_terms": [
         "brand_byd"
+      ]
+    },
+    {
+      "id": "3488870f4fd30cb8c9f6c048cd5596cc8a58fce2ded5e46454850c916b727ef0",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "腾势B5“致敬”大众途锐经典广告",
+      "url": "https://www.toutiao.com/trending/7709751856611983379/",
+      "rank": 28,
+      "first_seen": "2026-11-22T04:15:37.325537+00:00",
+      "last_seen": "2026-11-22T04:15:37.325537+00:00",
+      "matched_terms": [
+        "brand_denza"
       ]
     },
     {
