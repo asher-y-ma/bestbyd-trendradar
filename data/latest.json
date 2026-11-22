@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-21T23:15:37.065840+00:00",
+  "generated_at": "2026-11-22T00:15:45.229626+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 19
+    "matched_current": 1,
+    "retained_signals": 20
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "a53714033c838adb80170ba8a3680ba12668912dfd2a077891a8cd3c4ba1a160",
+      "platform": "zhihu",
+      "platform_name": "知乎",
+      "title": "荷兰法院裁定比亚迪 Ti7 抄袭路虎卫士，颁布销售禁令，对此怎么看？",
+      "url": "https://www.zhihu.com/question/2107417541236805904",
+      "rank": 13,
+      "first_seen": "2026-11-22T00:15:45.229626+00:00",
+      "last_seen": "2026-11-22T00:15:45.229626+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "1dbe2b856957a727cc22727c4117a8a38046f9db544f7de4e3b755be1d120960",
       "platform": "toutiao",
