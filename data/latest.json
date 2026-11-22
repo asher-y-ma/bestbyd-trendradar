@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-22T07:15:36.727652+00:00",
+  "generated_at": "2026-11-22T08:15:37.943765+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 3,
-    "retained_signals": 23
+    "retained_signals": 24
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -67,7 +67,20 @@
       "url": "https://www.zhihu.com/question/2107417541236805904",
       "rank": 2,
       "first_seen": "2026-11-22T00:15:45.229626+00:00",
-      "last_seen": "2026-11-22T07:15:36.727652+00:00",
+      "last_seen": "2026-11-22T08:15:37.943765+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
+    {
+      "id": "38af23f3602ea187eb318a93d144d5b7f5f70e58897995dedcd1779eb7c55703",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "荷兰法院禁售比亚迪Ti7",
+      "url": "https://www.toutiao.com/trending/7710458995118653476/",
+      "rank": 21,
+      "first_seen": "2026-11-22T08:15:37.943765+00:00",
+      "last_seen": "2026-11-22T08:15:37.943765+00:00",
       "matched_terms": [
         "brand_byd"
       ]
@@ -78,9 +91,9 @@
       "platform_name": "百度热搜",
       "title": "荷兰法院禁售比亚迪Ti7",
       "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E6%B3%95%E9%99%A2%E7%A6%81%E5%94%AE%E6%AF%94%E4%BA%9A%E8%BF%AATi7",
-      "rank": 7,
+      "rank": 28,
       "first_seen": "2026-11-22T07:15:36.727652+00:00",
-      "last_seen": "2026-11-22T07:15:36.727652+00:00",
+      "last_seen": "2026-11-22T08:15:37.943765+00:00",
       "matched_terms": [
         "brand_byd"
       ]
