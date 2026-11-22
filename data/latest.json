@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-22T12:15:41.156805+00:00",
+  "generated_at": "2026-11-22T13:15:37.782733+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 1,
-    "retained_signals": 25
+    "retained_signals": 24
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -65,9 +65,9 @@
       "platform_name": "百度热搜",
       "title": "荷兰裁定比亚迪抄袭路虎",
       "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E8%A3%81%E5%AE%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%84%E8%A2%AD%E8%B7%AF%E8%99%8E",
-      "rank": 15,
+      "rank": 18,
       "first_seen": "2026-11-22T10:15:41.405039+00:00",
-      "last_seen": "2026-11-22T12:15:41.156805+00:00",
+      "last_seen": "2026-11-22T13:15:37.782733+00:00",
       "matched_terms": [
         "brand_byd"
       ]
@@ -371,19 +371,6 @@
       "matched_terms": [
         "brand_byd",
         "brand_denza"
-      ]
-    },
-    {
-      "id": "99a46ac19ef34ad37b09fa84018fa2eb3e8806766980c1969f3ad75e18525c0d",
-      "platform": "baidu",
-      "platform_name": "百度热搜",
-      "title": "“雷神”怎么开比亚迪",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%9B%B7%E7%A5%9E%E2%80%9D%E6%80%8E%E4%B9%88%E5%BC%80%E6%AF%94%E4%BA%9A%E8%BF%AA",
-      "rank": 21,
-      "first_seen": "2026-11-15T11:15:36.630678+00:00",
-      "last_seen": "2026-11-15T13:15:33.996386+00:00",
-      "matched_terms": [
-        "brand_byd"
       ]
     }
   ]
