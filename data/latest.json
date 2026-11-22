@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-22T10:15:41.405039+00:00",
+  "generated_at": "2026-11-22T11:15:37.235403+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 2,
+    "matched_current": 1,
     "retained_signals": 25
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "c934ce226f290a3a39e0fffd9d4e41cfe038846dc2e72ffbf50aad76585e3733",
+      "platform": "baidu",
+      "platform_name": "百度热搜",
+      "title": "荷兰裁定比亚迪抄袭路虎",
+      "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E8%A3%81%E5%AE%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%84%E8%A2%AD%E8%B7%AF%E8%99%8E",
+      "rank": 17,
+      "first_seen": "2026-11-22T10:15:41.405039+00:00",
+      "last_seen": "2026-11-22T11:15:37.235403+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "a53714033c838adb80170ba8a3680ba12668912dfd2a077891a8cd3c4ba1a160",
       "platform": "zhihu",
@@ -67,19 +80,6 @@
       "url": "https://www.zhihu.com/question/2107417541236805904",
       "rank": 2,
       "first_seen": "2026-11-22T00:15:45.229626+00:00",
-      "last_seen": "2026-11-22T10:15:41.405039+00:00",
-      "matched_terms": [
-        "brand_byd"
-      ]
-    },
-    {
-      "id": "c934ce226f290a3a39e0fffd9d4e41cfe038846dc2e72ffbf50aad76585e3733",
-      "platform": "baidu",
-      "platform_name": "百度热搜",
-      "title": "荷兰裁定比亚迪抄袭路虎",
-      "url": "https://www.baidu.com/s?wd=%E8%8D%B7%E5%85%B0%E8%A3%81%E5%AE%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%84%E8%A2%AD%E8%B7%AF%E8%99%8E",
-      "rank": 27,
-      "first_seen": "2026-11-22T10:15:41.405039+00:00",
       "last_seen": "2026-11-22T10:15:41.405039+00:00",
       "matched_terms": [
         "brand_byd"
