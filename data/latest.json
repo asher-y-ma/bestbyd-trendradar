@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-23T11:15:38.385774+00:00",
+  "generated_at": "2026-11-23T12:15:38.951438+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 1,
-    "retained_signals": 24
+    "retained_signals": 23
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -65,9 +65,9 @@
       "platform_name": "知乎",
       "title": "比亚迪闪充站超时占位按 3 元 / 分钟收费，车主被收 300 元，这类规则能改善充电位被占用乱象吗？",
       "url": "https://www.zhihu.com/question/2107213415815106938",
-      "rank": 19,
+      "rank": 17,
       "first_seen": "2026-11-23T11:15:38.385774+00:00",
-      "last_seen": "2026-11-23T11:15:38.385774+00:00",
+      "last_seen": "2026-11-23T12:15:38.951438+00:00",
       "matched_terms": [
         "brand_byd",
         "tech_charging"
@@ -357,20 +357,6 @@
       "last_seen": "2026-11-16T22:15:46.514622+00:00",
       "matched_terms": [
         "brand_yangwang"
-      ]
-    },
-    {
-      "id": "d67b6aa3e9893ddc2d70b4993a41e16358473d741cf76005ffe45e4a1a16ac98",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "比亚迪：闪充技术直击用户痛点",
-      "url": "https://www.toutiao.com/trending/7707876199896317988/",
-      "rank": 9,
-      "first_seen": "2026-11-16T11:15:37.733353+00:00",
-      "last_seen": "2026-11-16T12:15:38.410868+00:00",
-      "matched_terms": [
-        "brand_byd",
-        "tech_charging"
       ]
     }
   ]
