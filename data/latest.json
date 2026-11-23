@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-23T08:15:35.325340+00:00",
+  "generated_at": "2026-11-23T09:15:47.006413+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 0,
-    "retained_signals": 24
+    "retained_signals": 23
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -357,20 +357,6 @@
       "matched_terms": [
         "brand_byd",
         "tech_charging"
-      ]
-    },
-    {
-      "id": "74aefda8b4d8dfbaa59b72bd7261367604462af3e9f5b7afd6f6aec269c82658",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "比亚迪王传福亲自交付首批腾势N8",
-      "url": "https://www.toutiao.com/trending/7708375536049307699/",
-      "rank": 20,
-      "first_seen": "2026-11-16T06:15:47.776378+00:00",
-      "last_seen": "2026-11-16T08:15:39.538019+00:00",
-      "matched_terms": [
-        "brand_byd",
-        "brand_denza"
       ]
     }
   ]
