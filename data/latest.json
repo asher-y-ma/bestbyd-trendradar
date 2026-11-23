@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-23T13:15:47.072865+00:00",
+  "generated_at": "2026-11-23T14:15:39.399885+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "知乎",
       "title": "比亚迪闪充站超时占位按 3 元 / 分钟收费，车主被收 300 元，这类规则能改善充电位被占用乱象吗？",
       "url": "https://www.zhihu.com/question/2107213415815106938",
-      "rank": 5,
+      "rank": 4,
       "first_seen": "2026-11-23T11:15:38.385774+00:00",
-      "last_seen": "2026-11-23T13:15:47.072865+00:00",
+      "last_seen": "2026-11-23T14:15:39.399885+00:00",
       "matched_terms": [
         "brand_byd",
         "tech_charging"
