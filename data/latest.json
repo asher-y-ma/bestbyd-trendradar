@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-24T14:15:48.105988+00:00",
+  "generated_at": "2026-11-24T15:15:39.082001+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,25 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 20
+    "matched_current": 1,
+    "retained_signals": 21
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "57bdf841cc80867b4028533819d7953a7a038e38f4b65eb998cc551c682e87b5",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "第三代唐搭载比亚迪线控底盘",
+      "url": "https://www.toutiao.com/trending/7710801389961691172/",
+      "rank": 9,
+      "first_seen": "2026-11-24T15:15:39.082001+00:00",
+      "last_seen": "2026-11-24T15:15:39.082001+00:00",
+      "matched_terms": [
+        "brand_byd",
+        "model_tang"
+      ]
+    },
     {
       "id": "a2ed1d5997889c1579d090a1ca54289b0fa5fdf77d32b2db5b38d4e07bee3ede",
       "platform": "zhihu",
