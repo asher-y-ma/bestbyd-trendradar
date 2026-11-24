@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-24T15:15:39.082001+00:00",
+  "generated_at": "2026-11-24T16:15:37.237292+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "今日头条",
       "title": "第三代唐搭载比亚迪线控底盘",
       "url": "https://www.toutiao.com/trending/7710801389961691172/",
-      "rank": 9,
+      "rank": 12,
       "first_seen": "2026-11-24T15:15:39.082001+00:00",
-      "last_seen": "2026-11-24T15:15:39.082001+00:00",
+      "last_seen": "2026-11-24T16:15:37.237292+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
