@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-24T09:15:36.978020+00:00",
+  "generated_at": "2026-11-24T10:15:35.808296+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 0,
-    "retained_signals": 21
+    "retained_signals": 20
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -316,19 +316,6 @@
       "rank": 11,
       "first_seen": "2026-11-17T04:15:49.297154+00:00",
       "last_seen": "2026-11-17T17:15:41.449274+00:00",
-      "matched_terms": [
-        "brand_byd"
-      ]
-    },
-    {
-      "id": "93c1c2d17d3137a6370dd02b905c4400b67302704228123c8b1e5bb7d555061e",
-      "platform": "baidu",
-      "platform_name": "百度热搜",
-      "title": "比亚迪汽车App崩了",
-      "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%B1%BD%E8%BD%A6App%E5%B4%A9%E4%BA%86",
-      "rank": 5,
-      "first_seen": "2026-11-17T09:15:47.974716+00:00",
-      "last_seen": "2026-11-17T09:15:47.974716+00:00",
       "matched_terms": [
         "brand_byd"
       ]
