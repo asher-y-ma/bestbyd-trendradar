@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-24T17:15:40.898769+00:00",
+  "generated_at": "2026-11-24T18:15:39.668386+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 1,
-    "retained_signals": 21
+    "retained_signals": 20
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -65,9 +65,9 @@
       "platform_name": "今日头条",
       "title": "第三代唐搭载比亚迪线控底盘",
       "url": "https://www.toutiao.com/trending/7710801389961691172/",
-      "rank": 15,
+      "rank": 23,
       "first_seen": "2026-11-24T15:15:39.082001+00:00",
-      "last_seen": "2026-11-24T17:15:40.898769+00:00",
+      "last_seen": "2026-11-24T18:15:39.668386+00:00",
       "matched_terms": [
         "brand_byd",
         "model_tang"
@@ -319,19 +319,6 @@
       "last_seen": "2026-11-17T23:15:39.477629+00:00",
       "matched_terms": [
         "brand_fangchengbao"
-      ]
-    },
-    {
-      "id": "fff5bf37ea5bbdd99518b2b4294efe3a744f22c7073753543bd293dc2d16d75d",
-      "platform": "zhihu",
-      "platform_name": "知乎",
-      "title": "中汽协将对比亚迪、小米等 17 家重点车企开展供应商账款支付情况调研评估，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2105956358176469828",
-      "rank": 11,
-      "first_seen": "2026-11-17T04:15:49.297154+00:00",
-      "last_seen": "2026-11-17T17:15:41.449274+00:00",
-      "matched_terms": [
-        "brand_byd"
       ]
     }
   ]
