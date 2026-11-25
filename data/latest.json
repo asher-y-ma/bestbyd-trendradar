@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-25T09:15:38.399676+00:00",
+  "generated_at": "2026-11-25T10:15:38.497695+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 19
+    "matched_current": 1,
+    "retained_signals": 20
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "7a87d009c0105ff40164d573220419a99eb507ebb38dffa059f04a9fd5e4eb8b",
+      "platform": "zhihu",
+      "platform_name": "知乎",
+      "title": "如何看待比亚迪将在法国摩泽尔地区建立工厂？",
+      "url": "https://www.zhihu.com/question/2108727830418933059",
+      "rank": 14,
+      "first_seen": "2026-11-25T10:15:38.497695+00:00",
+      "last_seen": "2026-11-25T10:15:38.497695+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "57bdf841cc80867b4028533819d7953a7a038e38f4b65eb998cc551c682e87b5",
       "platform": "toutiao",
