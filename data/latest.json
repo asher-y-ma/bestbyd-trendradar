@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-25T16:15:40.405967+00:00",
+  "generated_at": "2026-11-25T17:15:38.627320+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 20
+    "matched_current": 1,
+    "retained_signals": 21
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "325bfefbdebad14a2ca72432e5378799783bacea72883ab4d87781773cf50e7c",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "王传福如何逼出比亚迪逆袭奇迹",
+      "url": "https://www.toutiao.com/trending/7712087768578395702/",
+      "rank": 24,
+      "first_seen": "2026-11-25T17:15:38.627320+00:00",
+      "last_seen": "2026-11-25T17:15:38.627320+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "7a87d009c0105ff40164d573220419a99eb507ebb38dffa059f04a9fd5e4eb8b",
       "platform": "zhihu",
