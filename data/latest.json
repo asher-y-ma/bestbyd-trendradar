@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-25T10:15:38.497695+00:00",
+  "generated_at": "2026-11-25T11:15:41.096310+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "知乎",
       "title": "如何看待比亚迪将在法国摩泽尔地区建立工厂？",
       "url": "https://www.zhihu.com/question/2108727830418933059",
-      "rank": 14,
+      "rank": 7,
       "first_seen": "2026-11-25T10:15:38.497695+00:00",
-      "last_seen": "2026-11-25T10:15:38.497695+00:00",
+      "last_seen": "2026-11-25T11:15:41.096310+00:00",
       "matched_terms": [
         "brand_byd"
       ]
