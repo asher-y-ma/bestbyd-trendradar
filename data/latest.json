@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-26T16:15:39.329098+00:00",
+  "generated_at": "2026-11-26T17:15:38.206049+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 0,
-    "retained_signals": 21
+    "retained_signals": 18
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -291,45 +291,6 @@
       "rank": 25,
       "first_seen": "2026-11-19T14:15:37.118322+00:00",
       "last_seen": "2026-11-20T01:15:38.260041+00:00",
-      "matched_terms": [
-        "brand_byd"
-      ]
-    },
-    {
-      "id": "bc866c92acdf57149da5eb89513f5b4ba842e95b12c7ea1326f37b947a19da3f",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "方程豹钛9正式上市",
-      "url": "https://www.toutiao.com/trending/7709870440894071347/",
-      "rank": 6,
-      "first_seen": "2026-11-19T15:15:38.700824+00:00",
-      "last_seen": "2026-11-19T16:15:54.846758+00:00",
-      "matched_terms": [
-        "brand_fangchengbao"
-      ]
-    },
-    {
-      "id": "a23b78b94d8f840d9105e97a058401975b9617f71abae89ce5e796f134918af6",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "比亚迪发布折叠方向盘",
-      "url": "https://www.toutiao.com/trending/7709863053215629834/",
-      "rank": 10,
-      "first_seen": "2026-11-19T16:15:54.846758+00:00",
-      "last_seen": "2026-11-19T16:15:54.846758+00:00",
-      "matched_terms": [
-        "brand_byd"
-      ]
-    },
-    {
-      "id": "0f09857e99c4cbe926b41b9d1d83629764b2c5d44e97ec207b6c2ef1744e849e",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "比亚迪发布DMS超级混动全能平台",
-      "url": "https://www.toutiao.com/trending/7709586554267746842/",
-      "rank": 16,
-      "first_seen": "2026-11-19T15:15:38.700824+00:00",
-      "last_seen": "2026-11-19T16:15:54.846758+00:00",
       "matched_terms": [
         "brand_byd"
       ]
