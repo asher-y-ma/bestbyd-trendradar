@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-26T06:15:35.657219+00:00",
+  "generated_at": "2026-11-26T07:15:39.595406+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -59,6 +59,19 @@
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "b08391c4f2aeee755c5b099a0235fd5dd6a235976a47b6d37c6dd0c7994116f7",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪为何要买下法国工厂",
+      "url": "https://www.toutiao.com/trending/7712324660188188179/",
+      "rank": 28,
+      "first_seen": "2026-11-26T07:15:39.595406+00:00",
+      "last_seen": "2026-11-26T07:15:39.595406+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "fa76120559984c0a113ad3e9d9acb0c988709607ca748c2d53b087c4d0f3f5c8",
       "platform": "toutiao",
@@ -330,19 +343,6 @@
       "rank": 19,
       "first_seen": "2026-11-19T07:15:39.360338+00:00",
       "last_seen": "2026-11-19T09:15:38.601971+00:00",
-      "matched_terms": [
-        "brand_byd"
-      ]
-    },
-    {
-      "id": "2bf8a7647282cc8d5af0f5c2dcbf998af31e0fe155f4377673b0aa2c256f7f40",
-      "platform": "zhihu",
-      "platform_name": "知乎",
-      "title": "比亚迪 App 崩了，多位车主反映 App 无法连接车辆开门，故障原因可能是什么？造成的影响有多大？",
-      "url": "https://www.zhihu.com/question/2106068791704511912",
-      "rank": 13,
-      "first_seen": "2026-11-19T01:15:36.568454+00:00",
-      "last_seen": "2026-11-19T07:15:39.360338+00:00",
       "matched_terms": [
         "brand_byd"
       ]
