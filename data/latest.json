@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-26T04:15:39.773555+00:00",
+  "generated_at": "2026-11-26T05:15:45.270765+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -65,9 +65,9 @@
       "platform_name": "今日头条",
       "title": "第三代唐EV售价比预售价便宜近4万元",
       "url": "https://www.toutiao.com/trending/7711428764030418953/",
-      "rank": 29,
+      "rank": 13,
       "first_seen": "2026-11-26T04:15:39.773555+00:00",
-      "last_seen": "2026-11-26T04:15:39.773555+00:00",
+      "last_seen": "2026-11-26T05:15:45.270765+00:00",
       "matched_terms": [
         "model_tang"
       ]
