@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-26T03:15:43.315572+00:00",
+  "generated_at": "2026-11-26T04:15:39.773555+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 21
+    "matched_current": 1,
+    "retained_signals": 22
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "fa76120559984c0a113ad3e9d9acb0c988709607ca748c2d53b087c4d0f3f5c8",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "第三代唐EV售价比预售价便宜近4万元",
+      "url": "https://www.toutiao.com/trending/7711428764030418953/",
+      "rank": 29,
+      "first_seen": "2026-11-26T04:15:39.773555+00:00",
+      "last_seen": "2026-11-26T04:15:39.773555+00:00",
+      "matched_terms": [
+        "model_tang"
+      ]
+    },
     {
       "id": "325bfefbdebad14a2ca72432e5378799783bacea72883ab4d87781773cf50e7c",
       "platform": "toutiao",
