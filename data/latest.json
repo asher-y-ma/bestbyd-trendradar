@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-27T06:15:38.196420+00:00",
+  "generated_at": "2026-11-27T07:15:40.047653+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 0,
-    "retained_signals": 17
+    "retained_signals": 16
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -265,19 +265,6 @@
       "rank": 29,
       "first_seen": "2026-11-20T15:15:40.600483+00:00",
       "last_seen": "2026-11-20T23:15:47.668204+00:00",
-      "matched_terms": [
-        "brand_fangchengbao"
-      ]
-    },
-    {
-      "id": "263ceca117a16247b1e2ef55510a1ae42a97cf77ef9f74ade372678531eb72dd",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "方程豹钛9展车抵达39城135家门店",
-      "url": "https://www.toutiao.com/trending/7709481133096173619/",
-      "rank": 28,
-      "first_seen": "2026-11-20T04:15:40.502978+00:00",
-      "last_seen": "2026-11-20T07:15:39.316140+00:00",
       "matched_terms": [
         "brand_fangchengbao"
       ]
