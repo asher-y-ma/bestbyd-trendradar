@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-27T01:15:34.135318+00:00",
+  "generated_at": "2026-11-27T02:15:37.004400+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,24 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 18
+    "matched_current": 1,
+    "retained_signals": 17
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "4bafc10f0c930a06bf91eeb29053f619905d31f6b70dc1716b30470086322339",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "广州车展比亚迪新车盘点",
+      "url": "https://www.toutiao.com/trending/7709025955452338697/",
+      "rank": 24,
+      "first_seen": "2026-11-27T02:15:37.004400+00:00",
+      "last_seen": "2026-11-27T02:15:37.004400+00:00",
+      "matched_terms": [
+        "brand_byd"
+      ]
+    },
     {
       "id": "b08391c4f2aeee755c5b099a0235fd5dd6a235976a47b6d37c6dd0c7994116f7",
       "platform": "toutiao",
@@ -267,32 +280,6 @@
       "last_seen": "2026-11-20T07:15:39.316140+00:00",
       "matched_terms": [
         "brand_fangchengbao"
-      ]
-    },
-    {
-      "id": "84d47dad02299c0e1cc69b2166e7939d143187befd7242f1ed09aaf2e87193bd",
-      "platform": "zhihu",
-      "platform_name": "知乎",
-      "title": "如何评价 27.99 万起售的方程豹钛 9，方盒子大六座 SUV 可以是家庭的唯一用车吗？",
-      "url": "https://www.zhihu.com/question/2106857547277788874",
-      "rank": 18,
-      "first_seen": "2026-11-20T00:15:42.143129+00:00",
-      "last_seen": "2026-11-20T01:15:38.260041+00:00",
-      "matched_terms": [
-        "brand_fangchengbao"
-      ]
-    },
-    {
-      "id": "a056b48cfdb05fd2d41c14d5df0e843fe8a244372313c338c2314cf53a9d9e00",
-      "platform": "baidu",
-      "platform_name": "百度热搜",
-      "title": "比亚迪发布折叠方向盘",
-      "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E6%8A%98%E5%8F%A0%E6%96%B9%E5%90%91%E7%9B%98",
-      "rank": 25,
-      "first_seen": "2026-11-19T14:15:37.118322+00:00",
-      "last_seen": "2026-11-20T01:15:38.260041+00:00",
-      "matched_terms": [
-        "brand_byd"
       ]
     }
   ]
