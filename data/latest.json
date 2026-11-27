@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-27T11:15:38.760813+00:00",
+  "generated_at": "2026-11-27T12:15:39.214596+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -54,11 +54,25 @@
       }
     ],
     "total_items": 203,
-    "matched_current": 0,
-    "retained_signals": 16
+    "matched_current": 1,
+    "retained_signals": 17
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
+    {
+      "id": "3ba7131811803db186c9b690aff0ec1651a965235c8cbcb869d9ef55f970584a",
+      "platform": "toutiao",
+      "platform_name": "今日头条",
+      "title": "比亚迪仰望汽车高管：仰望就是仰望",
+      "url": "https://www.toutiao.com/trending/7712767863052009993/",
+      "rank": 10,
+      "first_seen": "2026-11-27T12:15:39.214596+00:00",
+      "last_seen": "2026-11-27T12:15:39.214596+00:00",
+      "matched_terms": [
+        "brand_byd",
+        "brand_yangwang"
+      ]
+    },
     {
       "id": "4bafc10f0c930a06bf91eeb29053f619905d31f6b70dc1716b30470086322339",
       "platform": "toutiao",
