@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-28T03:15:39.796457+00:00",
+  "generated_at": "2026-11-28T04:15:38.252263+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 0,
-    "retained_signals": 16
+    "retained_signals": 15
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -253,19 +253,6 @@
       "rank": 27,
       "first_seen": "2026-11-21T05:15:43.405288+00:00",
       "last_seen": "2026-11-21T05:15:43.405288+00:00",
-      "matched_terms": [
-        "brand_byd"
-      ]
-    },
-    {
-      "id": "bd2366e7a3c78a303f0ec22dc49988abba854d5d67d45bc1f91235ae495bd78c",
-      "platform": "weibo",
-      "platform_name": "微博",
-      "title": "比亚迪折叠方向盘能干嘛",
-      "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8A%98%E5%8F%A0%E6%96%B9%E5%90%91%E7%9B%98%E8%83%BD%E5%B9%B2%E5%98%9B",
-      "rank": 10,
-      "first_seen": "2026-11-21T02:14:49.413704+00:00",
-      "last_seen": "2026-11-21T03:15:40.404849+00:00",
       "matched_terms": [
         "brand_byd"
       ]
