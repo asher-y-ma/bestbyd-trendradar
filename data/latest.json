@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project": "bestbyd-trendradar",
-  "generated_at": "2026-11-28T05:15:36.372606+00:00",
+  "generated_at": "2026-11-28T06:15:36.273111+00:00",
   "timezone": "Asia/Shanghai",
   "upstream": {
     "repository": "https://github.com/sansan0/TrendRadar",
@@ -55,7 +55,7 @@
     ],
     "total_items": 203,
     "matched_current": 0,
-    "retained_signals": 15
+    "retained_signals": 14
   },
   "editorial_note": "Hotlist observations identify topics, not verified facts or original publication dates. BestBYD requires source evidence before writing.",
   "signals": [
@@ -242,19 +242,6 @@
       "last_seen": "2026-11-22T04:15:37.325537+00:00",
       "matched_terms": [
         "brand_denza"
-      ]
-    },
-    {
-      "id": "1dbe2b856957a727cc22727c4117a8a38046f9db544f7de4e3b755be1d120960",
-      "platform": "toutiao",
-      "platform_name": "今日头条",
-      "title": "泰国总理阿努廷参访比亚迪",
-      "url": "https://www.toutiao.com/trending/7709878313283830298/",
-      "rank": 27,
-      "first_seen": "2026-11-21T05:15:43.405288+00:00",
-      "last_seen": "2026-11-21T05:15:43.405288+00:00",
-      "matched_terms": [
-        "brand_byd"
       ]
     }
   ]
